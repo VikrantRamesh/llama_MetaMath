@@ -1,4 +1,4 @@
-,text,answer,solution
+id,text,answer,solution
 0,A source transmits messages to a destination using a sliding window protocol with 192 byte packets. The round trip delay between the source and destination is 480 ms and the bottleneck bandwidth on the path between the source and destination is 48 kbps. What is the propagation time between the source and destination?,"Sliding window protocol is a flow control technique used in computer networks to ensure reliable data transmission. It allows the sender to send multiple packets before receiving an acknowledgment from the receiver, improving efficiency. The window size determines the number of packets that can be sent without acknowledgment, with larger window sizes allowing for higher throughput but potentially increasing the risk of packet loss.
 
   given values:

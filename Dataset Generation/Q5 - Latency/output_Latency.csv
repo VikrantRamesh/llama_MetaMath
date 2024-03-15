@@ -23,7 +23,7 @@ id,text,answer,solution
   $Link length = 45000.000000000004 $
   $Link length = 45 km $
 
-the answer is: 45 km",45.0
+the answer is: 45 km",45
 1,"What is the Link Length for a frame size of 39236350 bits that is being sent up on a link with 94 routers, each having a queuing time of 7.822514164284489e-05 seconds and a processing time of 3.819213114570131e-05 sec? The speed of light inside the link is 190453141 m/sec. The link has a bandwidth of 1393879 bps?","Link Length is the physical distance between two points in a network. It is a crucial factor in determining the latency and bandwidth of a network connection.
 
   To find the Link Length, we can use the formula given below.
@@ -63,7 +63,7 @@ the answer is: 45 km",45.0
   $Link Length = (28.16 - 28.149035891924623 - 0.00735316331442742 - 0.0035900603276959233) * 190453141$
   $Link Length = 94000$
 
-  the answer is: 94 km",94.0
+  the answer is: 94 km",94
 2,"What is the Link Length for a frame size of 43119010 bits that is being sent up on a link with 62 routers, each having a queuing time of 1.0151924503050527e-05 seconds and a processing time of 6.310115243932114e-05 sec? The speed of light inside the link is 180008327 m/sec. The link has a bandwidth of 2251955 bps?","Link Length is the physical distance between two points on a network link. It is typically measured in kilometers (km) or miles (mi).
 
   To find the Link Length, we can use the formula given below.
@@ -104,7 +104,7 @@ the answer is: 45 km",45.0
   $Link Length = (19.152 - (43119010 / 2251955) - (62 * 1.0151924503050527e-05) - (62 * 6.310115243932114e-05)) * 180008327 $
   $Link Length = 62 km $
 
-  the answer is: 62 km",62.0
+  the answer is: 62 km",62
 3,What is the Link Length for a frame size of 76253280 bits that is being transmitted on a link with 77 routers? Each router has a queuing time of 6.299549572201833e-05 seconds and a processing time of 8.54109634848235e-05 seconds. The link has a bandwidth of 6530992 bps and the speed of light inside the link is 177567832 m/sec.,"To find the Link Length, we can use the formula given below.
 
   given values:
@@ -149,7 +149,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (11.687 - (76253280 / 6530992) - (77 * 6.299549572201833e-05) - (77 * 8.54109634848235e-05)) * 177567832 $
 $Link Length = 77 km $
 
-the answer is: 77 km",77.0
+the answer is: 77 km",77
 4,"What is the length of the link when a frame with a size of 11659630 bits is transmitted over it and experiences a latency of 1.366 seconds? The link consists of 49 routers, each introducing a queuing delay of 8.532317672749446e-06 seconds and a processing delay of 3.5457193613758384e-05 seconds. The link has a bandwidth of 8549877 bits per second, and the speed of light within the link is 106100642 meters per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -172,7 +172,7 @@ the answer is: 77 km",77.0
   $Link length = 49000 meters$
   $Link length = 49 km$
 
-  the answer is: 49 km",49.0
+  the answer is: 49 km",49
 5,"What is the Link Length for a frame size of 90580200 bits that is being sent up on a link with 91 routers, each having a queuing time of 2.0658381940882192e-05 seconds and a processing time of 2.2671356010649773e-05 seconds? The speed of light inside the link is 177854612 m/sec. The link has a bandwidth of 2080612 bps.","Link Length refers to the physical distance of the transmission medium over which data travels. It is a crucial factor in determining the propagation delay, which is the time taken for signals to travel through the medium.
 
   To find the Link Length, we can use the formula given below.
@@ -220,7 +220,7 @@ $Link Length = (43.539 - (90580200 / 2080612) - (91 * 2.0658381940882192e-05) - 
 $Link Length = 91000 meters $
 $Link Length = 91 km $
 
-the answer is: 91 km",91.0
+the answer is: 91 km",91
 6,"What would be the Link Length for a frame size of 87070170 bits that is being sent up on a link with 55 routers, each having a queuing time of 4.6393338777046124e-05 seconds and a processing time of 4.6693789382892286e-05 sec? The speed of light inside the link is 210567388 m/sec. The link has a bandwidth of 9020572 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -258,7 +258,7 @@ the answer is: 91 km",91.0
   $Link Length = (9.658 - 9.652400091701502 - 0.0025516336327375366 - 0.0025681584160590757) * 210567388 $
   $Link Length = 55000.000000000004 $
 
-the answer is: 55 km",55.0
+the answer is: 55 km",55
 7,What is the Link Length for a frame size of 40134830 bits that is being sent up on a link with 26 routers each having a queuing time of 6.455943071097553e-05 seconds and a processing time of 8.778653371999438e-05 sec? The latency is 4.257 seconds. The speed of light inside the link is 297842472 m/sec. The link has a bandwidth of 9436279 bps?,"Link Length is the physical distance between two points in a network. It is typically measured in kilometers (km) or miles (mi).
 
   To find the Link Length, we can use the formula given below.
@@ -283,7 +283,7 @@ the answer is: 55 km",55.0
   $Link length = 26000.000000000004 $
   $Link length = 26 km $
 
-  the answer is: 26 km",26.0
+  the answer is: 26 km",26
 8,"What is the Link Length for a frame size of 71287890 bits that is being transmitted over a link with 99 routers, each having a queuing time of 5.8522202254842675e-05 seconds and a processing time of 8.459878609496499e-05 seconds? The link has a bandwidth of 1327546 bps, and the speed of light within the link is 116082034 m/sec.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -331,7 +331,7 @@ $Link length = (53.713 - (71287890 / 1327546) - (99 * 5.8522202254842675e-05) - 
 
 $Link length = 99 km $
 
-the answer is: 99 km",99.0
+the answer is: 99 km",99
 9,"What is the Link Length for a frame of size 65905950 bits transmitted over a link consisting of 26 routers? Each router has a queuing time of 3.199864942316602e-05 seconds and a processing time of 5.0014283046333576e-05 seconds. The link has a length of 7045 km, a speed of light of 290113732 m/sec, and a bandwidth of 8009136 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -381,7 +381,7 @@ $Link Length = (8.231 - 8.228846407402745 - 0.0008319648850023166 - 0.0013003713
 
 $Link Length = 26000 $
 
-the answer is: 26 km",26.0
+the answer is: 26 km",26
 10,"What is the Link Length for a frame size of 28729490 bits that is being sent up on a link with 79 routers, each having a queuing time of 6.661354582368961e-05 seconds and a processing time of 2.102908705142525e-05 sec? The link is 4263 km long, and the speed of light inside the link is 169579005 m/sec. The link has a bandwidth of 1352840 bps?","Link Length refers to the physical distance between the source and destination of a data transmission. It is a crucial factor in determining the propagation delay, which is the time taken for data to traverse the medium. 
 
   To find the Link Length, we can use the formula given below.
@@ -429,7 +429,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (21.243 - (28729490 / 1352840) - (79 * 6.661354582368961e-05) - (79 * 2.102908705142525e-05)) * 169579005 $
 $Link Length = 79 km $
 
-the answer is: 79 km",79.0
+the answer is: 79 km",79
 11,"What is the length of the link that experiences a latency of 13.226 seconds when transmitting a frame of size 90619050 bits over a link comprising 85 routers, each introducing a queuing delay of 7.061709660040942e-06 seconds and a processing delay of 9.612055027864849e-05 seconds? The link has a bandwidth of 6856224 bits per second and a signal propagation speed of 171058683 meters per second?","given values:
   Frame size = 90619050 bits
   No. of routers= 85
@@ -450,7 +450,7 @@ the answer is: 79 km",79.0
   $Link length = (13.226 - 13.217049209594085 - 0.0006002453211034801 - 0.008170246773685122 ) * 171058683$
   $Link length = 0.000275999548237e-05 * 171058683$
   $Link length = 85 km$
-   the answer is: 85 km",85.0
+   the answer is: 85 km",85
 12,"What is the length of the link that carries 47775480 bits of data as it traverses a link composed of 56 routers? Each router introduces a queuing delay of 9.466612750851936e-05 seconds and a processing delay of 9.809099977598583e-05 seconds. The link spans a distance of 3061 kilometers, and the speed of light within the link is 195009039 meters per second. The link operates at a bandwidth of 8169612 bits per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -498,7 +498,7 @@ $Link length = (5.859 - (47775480 / 8169612) - (56 * 9.466612750851936e-05) - (5
 
 $Link length = 56000$
 
-the answer is: 56 km",56.0
+the answer is: 56 km",56
 13,"What is the length of the link comprising 25 routers, given that a frame of size 38965370 bits is transmitted over it and experiences a total latency of 4.1 seconds? Each router introduces a queuing delay of 2.2597702035816582e-05 seconds and a processing delay of 9.249895495242209e-05 seconds. The link operates at a bandwidth of 9510276 bits per second, and the speed of light within the link is 223397676 meters per second?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -521,7 +521,7 @@ the answer is: 56 km",56.0
   $Link length = (4.1 - 4.097186033297036 - 0.0005649425508954146 - 0.0023124738738105523 ) * 223397676$
   $Link length = 0.000000025000000000000002 * 223397676$
   $Link length = 25000$
-  the answer is: 25 km",25.0
+  the answer is: 25 km",25
 14,"What is the length of the link that experiences a latency of 1.679 seconds when transmitting a frame of size 11257890 bits over a link comprising 22 routers? Each router introduces a queuing delay of 7.895098386296875e-05 seconds and a processing delay of 7.152535434562221e-05 seconds. The link's bandwidth is 6717266 bps, and light travels at a speed of 180977910 m/sec within the link.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -546,7 +546,7 @@ the answer is: 56 km",56.0
   $Link length = 22000.000000000003$
   $Link length = 22 km$
 
-  the answer is: 22 km",22.0
+  the answer is: 22 km",22
 15,"What is the Link Length of a network comprising 54 routers? Each router introduces a queuing delay of 3.542324549722235e-05 seconds and a processing delay of 8.831112509089819e-05 seconds. The link spans a distance of 5274 km, and the speed of light within the link is 236795652 m/sec. The link operates at a bandwidth of 2728130 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -592,7 +592,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (4.384 - (11941830 / 2728130) - (54 * 3.542324549722235e-05) - (54 * 8.831112509089819e-05)) * 236795652 $
 $Link length = 54 km $
 
-the answer is: 54 km",54.0
+the answer is: 54 km",54
 16,What is the length of the link that experiences a latency of 10.169 seconds when transmitting a frame of size 47972930 bits over a link consisting of 53 routers? Each router introduces a queuing delay of 8.018868903971823e-05 seconds and a processing delay of 9.715423161808017e-05 seconds. The link operates at a bandwidth of 4721901 bits per second and the signal propagation speed is 166164874 meters per second.,"To find the Link Length, we can use the formula given below.
 
   given values:
@@ -616,7 +616,7 @@ the answer is: 54 km",54.0
   $Link length = 0.0000332196541564791 * 166164874$
   $Link length = 53.000000000000004$
 
-  the answer is: 53 km",53.0
+  the answer is: 53 km",53
 17,"What is the length of the link that transmits a frame of size 22979380 bits over a network with 60 routers, each introducing a queuing delay of 1.0639060694531677e-05 seconds and a processing delay of 7.226408069478913e-05 seconds? The link has a bandwidth of 3704605 bits per second and a signal propagation speed of 167762112 meters per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -661,7 +661,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (6.208 - (22979380 / 3704605) - (60 * 1.0639060694531677e-05) - (60 * 7.226408069478913e-05)) * 167762112 $
 $Link length = 60000 $
 
-the answer is: 60 km",60.0
+the answer is: 60 km",60
 18,"What is the length of the link for a frame of 65246810 bits transmitted over a link consisting of 32 routers, each with a queuing time of 5.5560250910360146e-05 seconds and a processing time of 4.5565458797391085e-05 seconds? The link has a speed of light of 148573540 meters per second, and a bandwidth of 7351005 bits per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -704,7 +704,7 @@ the answer is: 60 km",60.0
  $Link length = (8.879 - 8.875903362873512 - 0.0017779280291315247 - 0.0014580946815165147) * 148573540 $
  $Link length = 32000$
 
-the answer is: 32 km",32.0
+the answer is: 32 km",32
 19,"What is the Link Length for a frame size of 93698780 bits that is being transmitted on a link with 79 routers, each having a queuing time of 2.3746820133785824e-05 seconds and a processing time of 1.3655522466962828e-06 sec? The link is 9805 km long, and the speed of light inside the link is 164695304 m/sec. The link has a bandwidth of 3884746 bps?","Link Length refers to the physical distance between the source and destination of a network connection. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -747,7 +747,7 @@ the answer is: 32 km",32.0
   $Link Length = (24.122 - 24.11966702584931 - 0.00187599879056908 - 0.00010787862748900634) * 164695304 $
   $Link Length = 79000 $
 
-the answer is: 79 km",79.0
+the answer is: 79 km",79
 20,"What is the link length for a frame of 31405090 bits transmitted over a link with 93 routers? Each router has a queuing time of 5.209536791464787e-06 seconds and a processing time of 5.6592178156837796e-05 seconds. The link length is 2695 kilometers, and the speed of light within the link is 277251277 meters per second. The link has a bandwidth of 3953808 bits per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -794,7 +794,7 @@ $Link Length = (7.949 - (31405090 / 3953808) - (93 * 5.209536791464787e-06) - (9
 $Link Length = 93000 meters $
 $Link Length = 93 km $
 
-the answer is: 93 km",93.0
+the answer is: 93 km",93
 21,What is the Link Length for a frame size of 95460530 bits that is being transmitted on a link with 52 routers? Each router has a queuing time of 7.143085496812538e-05 seconds and a processing time of 7.545893537307395e-05 sec. The speed of light inside the link is 189320324 m/sec. The link has a bandwidth of 8196552 bps.,"To find the Link Length, we can use the formula given below.
 
   given values:
@@ -841,7 +841,7 @@ $Link Length = (11.654 - (95460530 / 8196552) - (52 * 7.143085496812538e-05) - (
 
 $Link Length = 52 km$
 
-the answer is: 52 km",52.0
+the answer is: 52 km",52
 22,"What would be the Link Length of a frame with a size of 37386850 bits transmitted over a link consisting of 33 routers? Each router introduces a queuing delay of 4.503802235672588e-06 seconds and a processing delay of 3.172080160483478e-05 seconds. The link has a length of 5818 km, a speed of light of 124798735 m/sec, and a bandwidth of 3216684 bps?","Latency refers to the time taken for data to travel from its source to its destination. It comprises several components:
 
 * **Propagation delay:** Time taken for data to travel through the physical medium (e.g., fiber optic cable).
@@ -894,7 +894,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (11.624 - (37386850 / 3216684) - (33 * 4.503802235672588e-06) - (33 * 3.172080160483478e-05)) * 124798735 $
 $Link Length = 33 km $
 
-the answer is: 33 km",33.0
+the answer is: 33 km",33
 23,"What is the Link Length for a frame size of 26871200 bits that is being transmitted on a link with 62 routers, each having a queuing time of 2.4379287231188366e-05 seconds and a processing time of 7.603415960960686e-05 seconds? The link is 1787 km long, and the speed of light inside the link is 201537217 m/sec. The link has a bandwidth of 1739063 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -940,7 +940,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (15.458 - (26871200 / 1739063) - (62 * 2.4379287231188366e-05) - (62 * 7.603415960960686e-05)) * 201537217 $
 $Link length = 62 km $
 
-the answer is: 62 km",62.0
+the answer is: 62 km",62
 24,"What is the Link Length for a frame size of 39236350 bits that is being sent up on a link with 94 routers? Each router has a queuing time of 7.822514164284489e-05 seconds and a processing time of 3.819213114570131e-05 sec. The link is 5699 km long, and the speed of light inside the link is 190453141 m/sec. The link has a bandwidth of 1393879 bps.","Latency, the time taken for data to travel from source to destination, encompasses several components:
 
 * Propagation delay: Time for data to traverse the physical medium (e.g., fiber optic cable).
@@ -979,7 +979,7 @@ the answer is: 62 km",62.0
   $Link length = (9.756 - (85122470  / 8731105 ) - (93  * 7.608674957957298e-06  ) - (93 * 6.543555036507888e-05  )) * 207550729 $
   $Link length = 93 km $
 
-The answer is 93 km.",93.0
+The answer is 93 km.",93
 25,"What is the Link Length for a frame size of 43119010 bits that is being sent up on a link with 62 routers, each having a queuing time of 1.0151924503050527e-05 seconds and a processing time of 6.310115243932114e-05 seconds? The speed of light inside the link is 180008327 m/sec. The link has a bandwidth of 2251955 bps?","Link Length is the physical distance between two points in a network. It is a crucial factor in determining the propagation delay, which is the time it takes for a signal to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -1006,7 +1006,7 @@ The answer is 93 km.",93.0
   $Link length = (Total Latency - 19.15454231951519) * 180008327 $
   $Link length = 54 km $
 
-the answer is: 54 km",54.0
+the answer is: 54 km",54
 26,What is the length of the link if a frame of size 11659630 bits is transmitted over a link consisting of 49 routers? Each router introduces a queuing delay of 8.532317672749446e-06 seconds and a processing delay of 3.5457193613758384e-05 seconds. The link has a length of 6859 kilometers and the speed of light within the link is 106100642 meters per second. The link operates at a bandwidth of 8549877 bits per second.,"Latency, or end-to-end delay, is the time it takes for a data packet to travel from its source to its destination. It is the sum of propagation delay, queuing delay, transmission delay, and processing delay.
 
 * **Propagation delay** is the time it takes for a signal to travel through a physical medium, such as a cable or fiber optic.
@@ -1047,7 +1047,7 @@ the answer is: 54 km",54.0
   $Link Length = (Latency - 0.002151050037638379) * 106100642$
   $Link Length = 23000.000000000004 km$
 
-  the answer is: 23 km",23.0
+  the answer is: 23 km",23
 27,"What is the Link Length for a frame size of 87070170 bits that is being transmitted over a link composed of 55 routers? Each router introduces a queuing time of 4.6393338777046124e-05 seconds and a processing time of 4.6693789382892286e-05 seconds. The link has a length of 9054 km, a speed of light of 210567388 m/sec, and a bandwidth of 9020572 bps?","Link Length is the physical distance between two points in a network. It is an important factor in determining the latency of a network connection. The formula for calculating Link Length is given below:
 
   given values:
@@ -1078,7 +1078,7 @@ the answer is: 54 km",54.0
   $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of routers * Queuing time per router) - (Number of routers * Processing time per router)) * Speed of light $
   $Link Length = (8.256 - (54674790  / 6627296 ) - (56  * 8.699533126107719e-05 ) - (56 * 2.9141141693168857e-05 )) * 139828900 $
   $Link Length = 56 km $
-  the answer is: 56 km",56.0
+  the answer is: 56 km",56
 28,"What is the Link Length for a frame size of 40134830 bits that is being sent up on a link with 26 routers, each having a queuing time of 6.455943071097553e-05 seconds and a processing time of 8.778653371999438e-05 seconds? The link is 3674 km long, and the speed of light inside the link is 297842472 m/sec. The link has a bandwidth of 9436279 bps?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1126,7 +1126,7 @@ $Link Length = (4.259 - (40134830 / 9436279) - (26 * 6.455943071097553e-05) - (2
 
 $Link Length = 43 km $
 
-the answer is: 43 km",43.0
+the answer is: 43 km",43
 29,"What is the length of the link if a frame of size 71287890 bits is transmitted over a link consisting of 99 routers? Each router introduces a queuing delay of 5.8522202254842675e-05 seconds and a processing delay of 8.459878609496499e-05 seconds. The link has a speed of light of 116082034 m/sec, and a bandwidth of 1327546 bps?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1170,7 +1170,7 @@ the answer is: 43 km",43.0
  $Link Length = (53.77052969056512 - 53.75635361295938 - 0.005804615122160961 - 0.008371461483565724) * 116082034 $
  $Link Length = 6000.000000000001 km $
 
-the answer is: 6 km",6.0
+the answer is: 6 km",6
 30,"What is the Link Length for a frame size of 65905950 bits that is being sent up on a link with 26 routers, each having a queuing time of 3.199864942316602e-05 seconds and a processing time of 5.0014283046333576e-05 sec? The speed of light inside the link is 290113732 m/sec. The link has a bandwidth of 8009136 bps?","Link Length is the physical distance between two points in a network. It is a crucial factor in determining the propagation delay, which is the time taken for a signal to travel from one end of the link to the other. 
 
   To find the Link Length, we can use the formula given below.
@@ -1204,7 +1204,7 @@ the answer is: 6 km",6.0
   $Link Length = (21.239 - (58234940 / 2741950 ) - (42 * 5.59947376869761e-06 ) - (42 * 1.2028282268976704e-05 )) * 136556106$
   $Link Length = 42 km $
 
- the answer is: 42 km",42.0
+ the answer is: 42 km",42
 31,"What is the Link Length for a frame size of 39236350 bits that is being sent up on a link with 94 routers, each having a queuing time of 7.822514164284489e-05 seconds and a processing time of 3.819213114570131e-05 sec? The speed of light inside the link is 190453141 m/sec. The link has a bandwidth of 1393879 bps?","Link Length is the physical distance between two points in a network. It is an important factor in determining the latency of a network, as the longer the link, the longer it takes for data to travel from one end to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -1247,7 +1247,7 @@ the answer is: 6 km",6.0
   $Link Length = 0.0000400180780807538 * 190453141 $
   $Link Length = 94000.00000000001 $
 
- the answer is: 94 km",94.0
+ the answer is: 94 km",94
 32,"What is the Link Length for a frame size of 43119010 bits that is being sent up on a link with 62 routers, each having a queuing time of 1.0151924503050527e-05 seconds and a processing time of 6.310115243932114e-05 sec? The speed of light inside the link is 180008327 m/sec. The link has a bandwidth of 2251955 bps?","Link Length is the physical distance between two points in a network. It is typically measured in kilometers (km) or miles (mi). The Link Length can affect the latency and bandwidth of a network connection.
 
   To find the Link Length, we can use the formula given below.
@@ -1289,7 +1289,7 @@ the answer is: 6 km",6.0
   $Link Length = 0.0002941992676525544 * 180008327$
   $Link Length = 53.1528901574598$
 
- the answer is: 62 km",62.0
+ the answer is: 62 km",62
 33,"What is the Link Length for a frame size of 90580200 bits that is being sent up on a link with 91 routers, each having a queuing time of 2.0658381940882192e-05 seconds and a processing time of 2.2671356010649773e-05 seconds? The speed of light inside the link is 177854612 m/sec. The link has a bandwidth of 2080612 bps.","Link Length refers to the physical distance spanned by a communication link. It is a crucial factor in determining the propagation delay, which is the time taken for signals to travel through the link.
 
   To find the Link Length, we can use the formula given below.
@@ -1335,7 +1335,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (43.539 - (90580200 / 2080612) - (91 * 2.0658381940882192e-05) - (91 * 2.2671356010649773e-05)) * 177854612 $
 $Link Length = 91000.00000000001 $
 
-the answer is: 91 km",91.0
+the answer is: 91 km",91
 34,"What would be the Link Length for a frame size of 87070170 bits that is being sent up on a link with 55 routers, each having a queuing time of 4.6393338777046124e-05 seconds and a processing time of 4.6693789382892286e-05 sec? The speed of light inside the link is 210567388 m/sec. The link has a bandwidth of 9020572 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1381,7 +1381,7 @@ $Link length = (9.658 - (87070170 / 9020572) - (55 * 4.6393338777046124e-05) - (
 $Link length = 55000 m $
 $Link length = 55 km $
 
-the answer is: 55 km",55.0
+the answer is: 55 km",55
 35,What is the Link Length for a frame size of 40134830 bits that is being sent up on a link with 26 routers each having a queuing time of 6.455943071097553e-05 seconds and a processing time of 8.778653371999438e-05 sec? The speed of light inside the link is 297842472 m/sec. The link has a bandwidth of 9436279 bps?,"To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1425,7 +1425,7 @@ the answer is: 55 km",55.0
  $Link length = (4.257 - 4.253247493000154 - 0.0016785451984853638 - 0.0022824498767198536) * 297842472 $
  $Link length = 26000.000000000004 $
 
-the answer is: 26 km",26.0
+the answer is: 26 km",26
 36,"What is the Link Length for a frame size of 71287890 bits that is being transmitted over a link with 99 routers, each having a queuing time of 5.8522202254842675e-05 seconds and a processing time of 8.459878609496499e-05 seconds? The link has a bandwidth of 1327546 bps, and the speed of light within the link is 116082034 m/sec.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1471,7 +1471,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (53.713 - (71287890 / 1327546) - (99 * 5.8522202254842675e-05) - (99 * 8.459878609496499e-05)) * 116082034 $
 $Link length = 99 km $
 
-the answer is: 99 km",99.0
+the answer is: 99 km",99
 37,"What is the Link Length for a frame of size 65905950 bits transmitted over a link consisting of 26 routers? Each router has a queuing time of 3.199864942316602e-05 seconds and a processing time of 5.0014283046333576e-05 seconds. The link has a length of 7045 km, a speed of light of 290113732 m/sec, and a bandwidth of 8009136 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1517,7 +1517,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (8.231 - (65905950 / 8009136) - (26 * 3.199864942316602e-05) - (26 * 5.0014283046333576e-05)) * 290113732 $
 $Link length = 26 km $
 
-the answer is: 26 km",26.0
+the answer is: 26 km",26
 38,"What is the Link Length for a frame size of 28729490 bits that is being sent up on a link with 79 routers, each having a queuing time of 6.661354582368961e-05 seconds and a processing time of 2.102908705142525e-05 sec? The link is 4263 km long, and the speed of light inside the link is 169579005 m/sec. The link has a bandwidth of 1352840 bps?","Link Length refers to the physical distance between the source and destination of a data transmission. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel over the link.
 
   To find the Link Length, we can use the formula given below.
@@ -1567,7 +1567,7 @@ $Link length = (21.243 - (28729490 / 1352840) - (79 * 6.661354582368961e-05) - (
 
 $Link length = 79 km $
 
-the answer is: 79 km",79.0
+the answer is: 79 km",79
 39,"What is the length of the link comprising 85 routers, each introducing a queuing delay of 7.061709660040942e-06 seconds and a processing delay of 9.612055027864849e-05 seconds, given a frame size of 90619050 bits, a bandwidth of 6856224 bits per second, and a signal propagation speed of 171058683 meters per second?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1612,7 +1612,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (13.226 - (90619050 / 6856224) - (85 * 7.061709660040942e-06) - (85 * 9.612055027864849e-05)) * 171058683 $
 $Link length = 85000 meters$
 $Link length = 85 km$
-the answer is: 85 km",85.0
+the answer is: 85 km",85
 40,"What is the length of the link that carries 47775480 bits of data as it traverses a link composed of 56 routers? Each router introduces a queuing delay of 9.466612750851936e-05 seconds and a processing delay of 9.809099977598583e-05 seconds. The link spans a distance of 3061 kilometers, and the speed of light within the link is 195009039 meters per second. The link operates at a bandwidth of 8169612 bits per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1658,7 +1658,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (5.859 - (47775480 / 8169612) - (56 * 9.466612750851936e-05) - (56 * 9.809099977598583e-05)) * 195009039$
 $Link length = 56000$
 
-the answer is: 56 km",56.0
+the answer is: 56 km",56
 41,"What is the length of the link that experiences a latency of 1.679 seconds when transmitting a frame of size 11257890 bits over a link comprising 22 routers? Each router introduces a queuing delay of 7.895098386296875e-05 seconds and a processing delay of 7.152535434562221e-05 seconds. The link's bandwidth is 6717266 bps, and light travels at a speed of 180977910 m/sec within the link.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1682,7 +1682,7 @@ the answer is: 56 km",56.0
   $Link length = (0.0007273169598591531) * 180977910$
   $Link length = 22000.000000000005$
 
- the answer is: 22 km",22.0
+ the answer is: 22 km",22
 42,"What would be the Link Length of a frame of size 11941830 bits transmitted over a link comprising 54 routers? Each router introduces a queuing delay of 3.542324549722235e-05 seconds and a processing delay of 8.831112509089819e-05 seconds. The link spans a distance of 5274 km, and the speed of light within the link is 236795652 m/sec. The link operates at a bandwidth of 2728130 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1730,7 +1730,7 @@ $Link Length = (4.384 - (11941830 / 2728130) - (54 * 3.542324549722235e-05) - (5
 
 $Link Length = 54 km $
 
-the answer is: 54 km",54.0
+the answer is: 54 km",54
 43,"What is the length of the link that transmits a frame of 65246810 bits over a link consisting of 32 routers, each with a queuing time of 5.5560250910360146e-05 seconds and a processing time of 4.5565458797391085e-05 seconds? The link has a speed of light of 148573540 meters per second, and a bandwidth of 7351005 bits per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1776,7 +1776,7 @@ $Link length = (8.879 - (65246810 / 7351005) - (32 * 5.5560250910360146e-05) - (
 $Link length = 32000 meters $
 $Link length = 32 kilometers $
 
-the answer is: 32 kilometers",32.0
+the answer is: 32 kilometers",32
 44,"What is the Link Length for a frame size of 93698780 bits that is being transmitted on a link with 79 routers, each having a queuing time of 2.3746820133785824e-05 seconds and a processing time of 1.3655522466962828e-06 sec? The link is 9805 km long, and the speed of light inside the link is 164695304 m/sec. The link has a bandwidth of 3884746 bps?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1824,7 +1824,7 @@ $Link length = (24.122 - (93698780 / 3884746) - (79 * 2.3746820133785824e-05) - 
 
 $Link length = 79 km $
 
-the answer is: 79 km",79.0
+the answer is: 79 km",79
 45,"What is the link length for a frame of 31405090 bits transmitted over a link with 93 routers? Each router has a queuing time of 5.209536791464787e-06 seconds and a processing time of 5.6592178156837796e-05 seconds. The link has a bandwidth of 3953808 bits per second, and the speed of light within the link is 277251277 meters per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1870,7 +1870,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (7.949 - (31405090 / 3953808) - (93 * 5.209536791464787e-06) - (93 * 5.6592178156837796e-05)) * 277251277 $
 $Link length = 93 km $
 
-the answer is: 93 km",93.0
+the answer is: 93 km",93
 46,"What would be the Link Length of a frame with a size of 37386850 bits transmitted over a link consisting of 33 routers? Each router introduces a queuing delay of 4.503802235672588e-06 seconds and a processing delay of 3.172080160483478e-05 seconds. The link has a length of 5818 km, a speed of light of 124798735 m/sec, and a bandwidth of 3216684 bps?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -1916,7 +1916,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (11.624 - (37386850 / 3216684) - (33 * 4.503802235672588e-06) - (33 * 3.172080160483478e-05)) * 124798735 $
 $Link Length = 33 km $
 
-the answer is: 33 km",33.0
+the answer is: 33 km",33
 47,"What is the Link Length for a frame size of 26871200 bits that is being transmitted on a link with 62 routers, each having a queuing time of 2.4379287231188366e-05 seconds and a processing time of 7.603415960960686e-05 seconds? The link is 1787 km long, and the speed of light inside the link is 201537217 m/sec. The link has a bandwidth of 1739063 bps.","Latency refers to the time delay experienced by data as it travels through a network. It encompasses various components:
 
 * **Propagation delay:** Time taken for data to travel physically through the network medium (e.g., cables, fiber optics).
@@ -1969,7 +1969,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (15.458 - (26871200 / 1739063) - (62 * 2.4379287231188366e-05) - (62 * 7.603415960960686e-05)) * 201537217 $
 $Link Length = 62 km $
 
-the answer is: 62 km",62.0
+the answer is: 62 km",62
 48,"What is the Link Length for a frame size of 11238340 bits that is being sent up on a link with 22 routers, each having a queuing time of 6.086318981095846e-05 seconds and a processing time of 4.3116859887397525e-05 sec? The speed of light inside the link is 151174559 m/sec. The link has a bandwidth of 2945959 bps?","Latency, or network delay, refers to the time it takes for data to travel from its source to its destination. It is composed of four main components:
 
 - **Propagation delay:** The time it takes for data to travel through the physical medium (e.g., cable, fiber).
@@ -2021,7 +2021,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (3.817 - (11238340 / 2945959) - (22 * 6.086318981095846e-05) - (22 * 4.3116859887397525e-05)) * 151174559 $
 $Link Length = 22000 m $
 
-the answer is: 22 km",22.0
+the answer is: 22 km",22
 49,"What is the length of the link for a frame of 76253280 bits transmitted over a link with 77 routers, each with a queuing time of 6.299549572201833e-05 seconds and a processing time of 8.54109634848235e-05 seconds? The link has a speed of light of 177567832 m/sec, and a bandwidth of 6530992 bps.","Latency, a measure of network delay, encompasses the time taken for data to traverse a network. It comprises four components:
 
 - Propagation delay: Time for data to travel physically over the network medium.
@@ -2072,7 +2072,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (11.69645212363523 - (76253280 / 6530992) - (77 * 6.299549572201833e-05) - (77 * 8.54109634848235e-05)) * 177567832 $
 $Link length = 58 km $
 
-the answer is: 58 km",58.0
+the answer is: 58 km",58
 50,What is the length of the link if a frame of size 11659630 bits is transmitted over a link consisting of 49 routers? Each router introduces a queuing delay of 8.532317672749446e-06 seconds and a processing delay of 3.5457193613758384e-05 seconds. The link has a length of 6859 kilometers and the speed of light within the link is 106100642 meters per second. The link operates at a bandwidth of 8549877 bits per second.,"Latency, or end-to-end delay, is the time it takes for a data packet to travel from its source to its destination. It is the sum of propagation delay, queuing delay, transmission delay, and processing delay.
 
 * **Propagation delay** is the time it takes for a signal to travel through a physical medium, such as a cable or fiber optic.
@@ -2124,7 +2124,7 @@ the answer is: 58 km",58.0
   $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * Queuing time per router) - (Number of routers * Processing time per router)) * Speed of light $
   $Link length = (1.366 - (11659630 / 8549877) - (49 * 8.532317672749446e-06) - (49 * 3.5457193613758384e-05)) * 106100642$
   $Link length = 23 km$
-  the answer is: 23 km",23.0
+  the answer is: 23 km",23
 51,"What is the length of the link for a frame of size 90580200 bits transmitted over a link with 91 routers? Each router introduces a queuing delay of 2.0658381940882192e-05 seconds and a processing delay of 2.2671356010649773e-05 seconds. The link has a speed of light of 177854612 m/sec, and a bandwidth of 2080612 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2170,7 +2170,7 @@ $Link length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link length = (14.413 - (75055310 / 5210754) - (98 * 1.9675062188259215e-05) - (98 * 7.25140951652883e-05)) * 123348327 $
 $Link length = 98 km $
 
-the answer is: 98 km",98.0
+the answer is: 98 km",98
 52,"What would be the length of the link if a frame of size 20734620 bits experiences a latency of 0.025275 seconds when transmitted over a link consisting of 89 routers? Each router introduces a queuing delay of 9.296536432184726e-05 seconds and a processing delay of 7.610809660168233e-05 seconds. The link operates at a bandwidth of 2411148 bps, and the speed of light within the link is 101132532 m/sec.","Latency, the time it takes for data to travel from source to destination, comprises several components:
 
 * Propagation delay: Time for data to traverse the physical medium (e.g., cables, airwaves).
@@ -2223,7 +2223,7 @@ the answer is: 98 km",98.0
   $Link length = 58000 m $
   $Link length = 58 km $
 
-The answer is 58 km.",58.0
+The answer is 58 km.",58
 53,"What is the Link Length for a frame size of 87070170 bits that is being transmitted over a link composed of 55 routers? Each router introduces a queuing time of 4.6393338777046124e-05 seconds and a processing time of 4.6693789382892286e-05 seconds. The link has a length of 9054 km, a speed of light of 210567388 m/sec, and a bandwidth of 9020572 bps?","Link Length is the physical distance between the source and destination of a data transmission. It is a key factor in determining the propagation delay, which is the time it takes for a signal to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -2258,7 +2258,7 @@ The answer is 58 km.",58.0
   $Link Length = (8.256 - 8.249939341776797 - 0.004871738550620322 - 0.001631903934817456) * 139828900$
   $Link Length = 56000$
   $Link Length = 56 km$
-   the answer is: 56 km",56.0
+   the answer is: 56 km",56
 54,"What is the Link Length for a frame size of 40134830 bits that is being sent up on a link with 26 routers, each having a queuing time of 6.455943071097553e-05 seconds and a processing time of 8.778653371999438e-05 seconds? The link has a bandwidth of 9436279 bps and a latency of 0.0002345 seconds. The speed of light inside the link is 297842472 m/sec.","Link Length refers to the physical distance between two points in a network connection. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -2284,7 +2284,7 @@ The answer is 58 km.",58.0
   $Link Length = 43000.000000000004 $
 
   the answer is: 43 km
-   the answer is: 43 km",43.0
+   the answer is: 43 km",43
 55,"What is the Link Length for a frame size of 65905950 bits that is being sent up on a link with 26 routers, each having a queuing time of 3.199864942316602e-05 seconds and a processing time of 5.0014283046333576e-05 sec? The speed of light inside the link is 290113732 m/sec. The link has a bandwidth of 8009136 bps?","Link Length is the physical distance between two points in a network. It is typically measured in kilometers (km) or miles (mi). The Link Length can affect the latency and bandwidth of a network connection.
 
   To find the Link Length, we can use the formula given below.
@@ -2317,7 +2317,7 @@ The answer is 58 km.",58.0
   $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * Queuing time per router) - (Number of routers * Processing time per router)) * Speed of light $
   $Link length = (1.2156175572258922e-05 - (65905950  / 8009136 ) - (26  * 3.199864942316602e-05  ) - (26 * 5.0014283046333576e-05  )) * 290113732 $
   $Link length = 42 km $
-  the answer is: 42 km",42.0
+  the answer is: 42 km",42
 56,"What is the length of the link used to transmit a frame with a size of 87768610 bits over a link with 50 routers? Each router introduces a queuing time of 6.061446943436775e-05 seconds and a processing time of 1.6494864823722087e-05 seconds. The link has a speed of light of 117303756 m/sec, and a bandwidth of 9612277 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2361,7 +2361,7 @@ $Link length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link length = (9.136254929625439 - (87768610 / 9612277) - (50 * 6.061446943436775e-05) - (50 * 1.6494864823722087e-05)) * 117303756 $
 $Link length = 64 km $
 
-the answer is: 64 km",64.0
+the answer is: 64 km",64
 57,"What is the Link Length for a frame size of 47775480 bits that is being sent up on a link with 56 routers, each having a queuing time of 9.466612750851936e-05 seconds and a processing time of 9.809099977598583e-05 sec? The speed of light inside the link is 195009039 m/sec. The link has a bandwidth of 8169612 bps?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2404,7 +2404,7 @@ the answer is: 64 km",64.0
   $Link Length = (5.87 - 5.85905625186072 - 0.005301639120479064 - 0.005500095586755169) * 195009039$
   $Link Length = 37000$
 
-the answer is: 37 km",37.0
+the answer is: 37 km",37
 58,What is the length of the link that experiences a latency of 10.057 seconds when transmitting a frame of size 38965370 bits over 25 routers? Each router introduces a queuing delay of 2.2597702035816582e-05 seconds and a processing delay of 9.249895495242209e-05 seconds. The link has a speed of light of 223397676 m/sec and a bandwidth of 9510276 bps?,"Latency refers to the time it takes for data to travel from its source to its destination. It encompasses several components:
 
 * **Propagation delay:** Time taken for data to physically travel through the network medium.
@@ -2445,7 +2445,7 @@ the answer is: 37 km",37.0
   $Link Length = 80 km$
 
 
- the answer is: 80 km",80.0
+ the answer is: 80 km",80
 59,"What is the Link Length for a frame size of 11257890 bits that is being sent up on a link with 22 routers, each having a queuing time of 7.895098386296875e-05 seconds and a processing time of 7.152535434562221e-05 seconds? The link is 3512 km long, and the speed of light inside the link is 180977910 m/sec. The link has a bandwidth of 6717266 bps.","Link Length refers to the physical distance between two points in a network. It is influenced by several factors:
 
 - **Propagation delay:** Time taken for data to travel physically over the network medium.
@@ -2500,7 +2500,7 @@ $Link Length = (1.679 - (11257890 / 6717266) - (22 * 7.895098386296875e-05) - (2
 
 $Link Length = 58 km $
 
-the answer is: 58 km",58.0
+the answer is: 58 km",58
 60,What is the Link Length for a frame size of 47972930 bits that is being sent up on a link with 53 routers? Each router has a queuing time of 8.018868903971823e-05 seconds and a processing time of 9.715423161808017e-05 sec. The speed of light inside the link is 166164874 m/sec. The link has a bandwidth of 4721901 bps.,"Link Length refers to the physical distance between two points in a network connection. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel from one end of the link to the other. 
 
   To find the Link Length, we can use the formula given below.
@@ -2546,7 +2546,7 @@ the answer is: 58 km",58.0
  $Link Length = (10.16954771765376 - (47972930 / 4721901) - (53 * 8.018868903971823e-05) - (53 * 9.715423161808017e-05)) * 166164874 $
  $Link Length = 20000.000000000004 km $
 
-the answer is: 20 km",20.0
+the answer is: 20 km",20
 61,"What is the Link Length of a link comprising 60 routers? Each router introduces a queuing delay of 1.0639060694531677e-05 seconds and a processing delay of 7.226408069478913e-05 seconds. The link spans a distance of 5312 km, with a signal propagation speed of 167762112 m/sec. The link operates at a bandwidth of 3704605 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2594,7 +2594,7 @@ $Link Length = (6.183 - (22979380 / 3704605) - (60 * 1.0639060694531677e-05) - (
 
 $Link Length = 94 km $
 
-the answer is: 94 km",94.0
+the answer is: 94 km",94
 62,"What is the Link Length for a frame size of 65246810 bits that is being transmitted on a link with 32 routers, each having a queuing time of 5.5560250910360146e-05 seconds and a processing time of 4.5565458797391085e-05 seconds? The link is 5807 km long, and the speed of light inside the link is 148573540 m/sec. The link has a bandwidth of 7351005 bps.","Link Length is the physical distance between the source and destination of a data transmission. It is a key factor in determining the propagation delay, which is the time it takes for a signal to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -2628,7 +2628,7 @@ the answer is: 94 km",94.0
   $Link Length = (15.74 - (96906610 / 6160140 ) - (95 * 1.5161028807318877e-05 ) - (95 * 7.209426151674926e-05 )) * 159169904 $
   $Link Length = 95 km $
 
-the answer is: 95 km",95.0
+the answer is: 95 km",95
 63,"What is the length of the link that transmits a frame of 93698780 bits over 79 routers? Each router introduces a queuing delay of 2.3746820133785824e-05 seconds and a processing delay of 1.3655522466962828e-06 seconds. The link spans a distance of 9805 km, with a signal propagation speed of 164695304 m/sec and a bandwidth of 3884746 bps.","Latency, or end-to-end delay, is the time it takes for a data packet to travel from its source to its destination. It is the sum of propagation delay, queuing delay, transmission delay, and processing delay.
 
 * **Propagation delay** is the time it takes for a signal to travel over a physical medium, such as a wire or fiber optic cable.
@@ -2682,7 +2682,7 @@ $Link length = (24.12 - (93698780 / 3884746) - (79 * 2.3746820133785824e-05) - (
 $Link length = 40000 m $
 $Link length = 40 km $
 
-the answer is: 40 km",40.0
+the answer is: 40 km",40
 64,What would be the Link Length for a frame size of 15453340 bits that is being sent up on a link with 75 routers? Each router has a queuing time of 4.079094082079773e-06 seconds and a processing time of 8.443311097276075e-05 sec. The speed of light inside the link is 129544446 m/sec. The link has bandwidth of 8137487 bps?,"Latency, a measure of network delay, encompasses the time taken for data to traverse a network. It consists of four components:
 
 * **Propagation delay:** Time for data to travel over the physical medium.
@@ -2729,7 +2729,7 @@ the answer is: 40 km",40.0
   $Link Length = (1.899910414185807 - (15453340  / 8137487 ) - (75  * 4.079094082079773e-06 ) - (75 * 8.443311097276075e-05 )) * 129544446$
   $Link Length = 41000$
 
- the answer is: 41 km",41.0
+ the answer is: 41 km",41
 65,"What is the Link Length of a frame of size 31405090 bits transmitted over a link with 93 routers? Each router introduces a queuing delay of approximately 5.209536791464787e-06 seconds and a processing delay of 5.6592178156837796e-05 seconds. The link spans a distance of 2695 kilometers, and the speed of light within the link is 277251277 meters per second. Additionally, the link has a bandwidth of 3953808 bits per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2775,7 +2775,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (7.95 - (31405090 / 3953808) - (93 * 5.209536791464787e-06) - (93 * 5.6592178156837796e-05)) * 277251277 $
 $Link Length = 60000 $
 
-the answer is: 60 km",60.0
+the answer is: 60 km",60
 66,"What is the length of the link for a frame size of 37386850 bits that is being transmitted on a link with 33 routers, each having a queuing time of 4.503802235672588e-06 seconds and a processing time of 3.172080160483478e-05 seconds? The link has a length of 5818 km, a speed of light of 124798735 m/sec, and a bandwidth of 3216684 bps?","Latency, in networking, refers to the time taken for data to travel from a source to a destination. It comprises four main components:
 
 * **Propagation delay:** Time taken for data to travel through the physical medium (e.g., cable, fiber).
@@ -2830,7 +2830,7 @@ $Link Length = (11.63 - (37386850 / 3216684) - (33 * 4.503802235672588e-06) - (3
 
 $Link Length = 47000.000000000004 $
 
-the answer is: 47 km",47.0
+the answer is: 47 km",47
 67,"What is the Link Length for a frame size of 26871200 bits that is being transmitted on a link with 62 routers, each introducing a queuing time of 2.4379287231188366e-05 seconds and a processing time of 7.603415960960686e-05 seconds? The link spans a distance of 1787 km, with a speed of light within the link of 201537217 m/sec. The link operates at a bandwidth of 1739063 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2871,7 +2871,7 @@ the answer is: 47 km",47.0
   $Link length = ( 8.869725120332716e-06 + 15.46165375605871 + 0.001513663841956613 + 0.004713125754175234 - (26871200 / 1739063)) * 201537217$
   $Link length = 52 km$
 
-the answer is: 52 km",52.0
+the answer is: 52 km",52
 68,"What is the Link Length for a frame of 11,238,340 bits transmitted over a link with 22 routers? Each router has a queuing time of 6.086318981095846e-05 seconds and a processing time of 4.3116859887397525e-05 seconds. The link has a bandwidth of 2,945,959 bps, and the speed of light within the link is 151,174,559 m/sec.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -2903,7 +2903,7 @@ the answer is: 52 km",52.0
   $Link Length = (Latency - 3.818237720537493 - 0.0013389915554408843 - 0.0009485689154985456) * 151,174,559 $
   $Link Length = (Latency - 3.820525280992846) * 151,174,559 $
 
-  the answer is: 55 km",55.0
+  the answer is: 55 km",55
 69,What is the Link Length for a frame size of 12602910 bits that is being sent up on a link with 97 routers? Each router has a queuing time of 1.0435568590332689e-05 seconds and a processing time of 8.576482769085441e-05 sec. The link has a bandwidth of 8657557 bps. The speed of light inside the link is 115855925 m/sec.,"Link Length is the physical distance between the source and destination of a data transmission. It is a key factor in determining the propagation delay, which is the time it takes for a signal to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -2935,7 +2935,7 @@ the answer is: 52 km",52.0
   $Link Length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * Queuing time per router) - (Number of routers * Processing time per router)) * Speed of light $
   $Link Length = (11.195 - (12602910 / 8657557) - (97 * 1.0435568590332689e-05) - (97 * 8.576482769085441e-05)) * 115855925 $
   $Link Length = 79000 $
-  the answer is: 79 km",79.0
+  the answer is: 79 km",79
 70,"What would be the Link Length for a frame size of 85122470 bits that is being sent up on a link with 93 routers, each having a queuing time of 7.608674957957298e-06 seconds and a processing time of 6.543555036507888e-05 seconds? The link is 9433 km long, and the speed of light inside the link is 207550729 m/sec. Additionally, the link has a bandwidth of 8731105 bps.","Link Length is the physical distance between the source and destination of a data transmission. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel through the medium.
 
   To find the Link Length, we can use the formula given below.
@@ -2972,7 +2972,7 @@ the answer is: 52 km",52.0
   $Link length = (Total Latency - 0.00677161238912851) * 207550729 $
   $Link length = 100 km $
 
- the answer is: 100 km",100.0
+ the answer is: 100 km",100
 71,"What is the Link Length of a network comprising 54 routers, where each router introduces a queuing delay of 1.9532883924441825e-05 seconds and a processing delay of 4.925370259977183e-05 seconds? The network transmits a frame of size 18421570 bits over a link with a bandwidth of 1773013 bps and a signal propagation speed of 106194066 m/sec.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3018,7 +3018,7 @@ the answer is: 52 km",52.0
   $Link length = (10.402188881516389 - 10.398470157823474 - 0.0010547731513243984 - 0.002663950541584858) * 106194066 $
   $Link length = 89000.00000000001 km $
 
-the answer is: 89 km",89.0
+the answer is: 89 km",89
 72,What is the Link Length for a frame size of 38349400 bits that is being sent up on a link with 58 routers? Each router has a queuing time of 1.0756420778332223e-05 seconds and a processing time of 8.923613218916429e-05 seconds. The link has a bandwidth of 6692837 bps and a speed of light inside the link of 276851146 m/sec.,"Link Length refers to the physical distance between two points in a network connection. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel over the link.
 
   To find the Link Length, we can use the formula given below.
@@ -3065,7 +3065,7 @@ $Link Length = (25.219 - 5.73701363780318e-06 - 0.0006235743562953428 - 0.005175
 
  $Link Length = 16 km $
 
-The answer is 16 km.",16.0
+The answer is 16 km.",16
 73,"What is the Link Length for a frame size of 34803330 bits that is being transmitted on a link with 23 routers, each having a queuing time of 3.163558157989636e-05 seconds and a processing time of 7.127274212489046e-05 seconds? The link has a bandwidth of 1983045 bps, and the speed of light within the link is 119305833 m/sec.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3110,7 +3110,7 @@ The answer is 16 km.",16.0
  $Link Length = 90000 meters $
  $Link Length = 90 km $
 
-the answer is: 90 km",90.0
+the answer is: 90 km",90
 74,"What is the length of a link composed of 58 routers, each incurring a queuing delay of 4.132925081001823e-05 seconds and a processing delay of 4.5650841012557005e-05 seconds, if a frame of size 36719910 bits experiences a latency of 15.506 seconds? The link has a bandwidth of 1453127 bits per second, and the speed of light within the link is 148229756 meters per second.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3134,7 +3134,7 @@ the answer is: 90 km",90.0
   $Link length = 14000.000000000002$
   $Link length = 14 km$
 
-  the answer is: 14 km",14.0
+  the answer is: 14 km",14
 75,"What is the Link Length for a frame size of 54674790 bits that is being sent up on a link with 56 routers, each having a queuing time of 8.699533126107719e-05 seconds and a processing time of 2.9141141693168857e-05 sec? The link is 3903 km long, and the speed of light inside the link is 139828900 m/sec. The link has a bandwidth of 6627296 bps?","Latency, also known as network delay, refers to the time taken for data to travel from its source to its destination. It encompasses various components:
 
 * **Propagation Delay:** Time taken for data to physically traverse the network medium (e.g., fiber optic cables).
@@ -3187,7 +3187,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (3.628 - (23426340 / 6464596) - (53 * 6.764357090662487e-05) - (53 * 6.8142282297949876e-06)) * 142084895 $
 $Link Length = 53 km $
 
-the answer is: 53 km",53.0
+the answer is: 53 km",53
 76,"What is the Link Length for a frame size of 95990660 bits that is being sent up on a link with 43 routers, each having a queuing time of 7.712910662253766e-05 seconds and a processing time of 1.0952239593451756e-05 sec? The speed of light inside the link is 143397252 m/sec, and the link has a bandwidth of 5751811 bps?","Link Length refers to the physical distance between two points on a network. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel over the network medium.
 
   To find the Link Length, we can use the formula given below.
@@ -3231,7 +3231,7 @@ the answer is: 53 km",53.0
  $Link Length = (9.094 - (59382810 / 6534120) - (59 * 9.151717772497105e-05) - (59 * 1.0323535044276453e-05)) * 217625663 $
  $Link Length = 59 km $
 
-the answer is: 59 km",59.0
+the answer is: 59 km",59
 77,"What is the Link Length for a frame size of 58234940 bits that is being transmitted on a link with 42 routers? Each router has a queuing time of 5.59947376869761e-06 seconds and a processing time of 1.2028282268976704e-05 sec. The link is 1660 km long, and the speed of light inside the link is 136556106 m/sec. The link has a bandwidth of 2741950 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3277,7 +3277,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (12.097 - (29350670 / 2427544) - (55 * 6.715883225008906e-05) - (55 * 4.1309082356756526e-05)) * 293977864$
 $Link Length = 55 km $
 
-the answer is: 55 km",55.0
+the answer is: 55 km",55
 78,"What would be the Link Length for a frame size of 48051910 bits that is being sent up on a link with 38 routers, each having a queuing time of 4.020316643981879e-05 seconds and a processing time of 9.94671163979652e-05 seconds? The speed of light inside the link is 271671037 m/sec. The link has a bandwidth of 6290401 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3313,7 +3313,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (54.864 - (48051910 / 6290401) - (38 * 4.020316643981879e-05) - (38 * 9.94671163979652e-05)) * 271671037 $
 $Link Length = 14000.000000000002$
 
- the answer is: 14 km",14.0
+ the answer is: 14 km",14
 79,"What is the Link Length for a frame size of 30316070 bits that is being sent up on a link with 64 routers, each having a queuing time of 8.781602015347116e-05 seconds and a processing time of 6.464346013236752e-05 seconds? The link is 9899 km long, and the speed of light inside the link is 214821358 m/sec. The link has a bandwidth of 5997675 bps?","Latency, the time taken for data to travel from source to destination, comprises several components:
 
 * **Propagation delay:** Time taken for data to physically travel through the network medium.
@@ -3374,7 +3374,7 @@ $Link length = (14.996 - (83516260 / 5574881) - (96 * 7.428936534498721e-05) - (
 
 $Link length = 96 km$
 
-The answer is 96 km.",96.0
+The answer is 96 km.",96
 80,"What is the Link Length of a link comprising 80 routers, where each router introduces a queuing delay of 1.3895322789446488e-05 seconds and a processing delay of 7.04743862969913e-05 seconds? The link spans a distance of 2430 km, and the speed of light within the link is 130448829 m/sec. Additionally, the link operates with a bandwidth of 4706367 bps.","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3409,7 +3409,7 @@ The answer is 96 km.",96.0
 
   $Link Length = 94 km $
 
-the answer is: 94 km",94.0
+the answer is: 94 km",94
 81,"What is the Link Length for a frame size of 78316970 bits that is being sent up on a link with 58 routers, each having a queuing time of 7.625638825112937e-06 seconds and a processing time of 8.683851077240344e-05 sec? The speed of light inside the link is 100835444 m/sec. The link has a bandwidth of 5917550 bps.","Link Length is the physical distance between two points in a network. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -3455,7 +3455,7 @@ the answer is: 94 km",94.0
   $Link Length = (67.908 - (72800500 / 1072186) - (77 * 8.816434046277046e-05) - (77 * 2.3091655500305853e-05)) * 293021264$
   $Link Length = 77 km$
 
-  the answer is: 77 km",77.0
+  the answer is: 77 km",77
 82,What is the Link Length for a frame size of 29682850 bits that is being sent up on a link with 65 routers? Each router has a queuing time of 8.734727367024759e-05 seconds and a processing time of 6.583160710366347e-05 sec. The speed of light inside the link is 211068078 m/sec. The link has a bandwidth of 3268232 bps.,"Link Length is the physical distance between two points in a network. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel from one point to another. The formula for calculating Link Length is:
 
   given values:
@@ -3501,7 +3501,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (6.191 - (55818240 / 9026132) - (49 * 7.61048103420584e-05) - (49 * 6.63862654773966e-05)) * 277734474 $
 $Link Length = 49 km $
 
-The answer is 49 km.",49.0
+The answer is 49 km.",49
 83,"What is the Link Length for a frame size of 75880130 bits that is being sent up on a link with 40 routers, each having a queuing time of 2.9576100802494155e-05 seconds and a processing time of 7.669399124028609e-05 seconds? The link has a bandwidth of 2610234 bps, and the speed of light inside the link is 104940382 m/sec.","Link Length refers to the physical distance between the source and destination of a signal. It is a crucial factor in determining the propagation delay, which is the time taken for the signal to travel through the transmission medium.
 
   To find the Link Length, we can use the formula given below.
@@ -3537,7 +3537,7 @@ The answer is 49 km.",49.0
   $Link Length = (Total Latency - 29.11233882344438 seconds) * 104940382 $
   $Link Length = 24 km $
 
- the answer is: 24 km",24.0
+ the answer is: 24 km",24
 84,"What would be the length of the link that would result in a latency of 4.541 seconds, given a frame size of 98701320 bits, 47 routers, each introducing a queuing delay of 2.4088371502559625e-05 seconds and a processing delay of 2.3918835537403632e-05 seconds? The link spans a distance of 8248 km, with a speed of light within the link of 127343507 m/sec and a bandwidth of 2300345 bps?","Latency, also known as delay, refers to the time taken for data to travel from its source to its destination. It comprises four main components:
 
 1. Propagation Delay: Time taken for data to travel through the physical medium (e.g., cables, fiber optics).
@@ -3584,7 +3584,7 @@ The answer is 49 km.",49.0
   $Link length = (4.541 - (98701320 / 2300345) - (47 * 2.4088371502559625e-05) - (47 * 2.3918835537403632e-05)) * 127343507 $
   $Link length = 73 km $
 
-  the answer is: 73 km",73.0
+  the answer is: 73 km",73
 85,"What would be the Link Length for a frame size of 73587430 bits that is being transmitted on a link with 79 routers, each having a queuing time of 9.808984399654827e-05 seconds and a processing time of 2.7780576106382927e-05 seconds? The link has a bandwidth of 6579259 bps, and the speed of light inside the link is 149013066 m/sec.","Link Length, the physical distance between two points in a network, is influenced by several factors:
 
 * Propagation delay: Time for data to travel through the physical medium (e.g., fiber optic cable)
@@ -3636,7 +3636,7 @@ $Link Length = (Total Latency - (Frame size / Bandwidth) - (Number of routers * 
 $Link Length = (12.606 - (71127900 / 5642766) - (17 * 1.0606035037902072e-05) - (17 * 6.403749100583846e-05)) * 297106890 $
 $Link Length = 17 km $
 
-the answer is: 17 km",17.0
+the answer is: 17 km",17
 86,"What would be the Link Length experienced by a frame of size 39595140 bits transmitted over a link comprising 100 routers? Each router introduces a queuing delay of 1.407169393662059e-05 seconds and a processing delay of 6.487142545868546e-05 seconds. The link has a speed of light of 156006502 m/sec, and a bandwidth of 2026136 bps.","Link Length, also known as the physical distance between two points in a network, is the length of the path that data travels through a network. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel from one point to another. 
 
   To find the Link Length, we can use the formula given below.
@@ -3685,7 +3685,7 @@ $Link Length = (13.117 - (99105540 / 7557244) - (53 * 3.776497393188868e-05) - (
 
 $Link Length = 53 km $
 
-the answer is: 53 km",53.0
+the answer is: 53 km",53
 87,"What is the Link Length of a frame of size 57855740 bits transmitted over a link with 89 routers, each introducing a queuing time of 4.1373789180401494e-05 seconds and a processing time of 4.716088393102677e-05 seconds? The link spans a distance of 3760 km, with a signal propagation speed of 117168386 m/sec and a bandwidth of 7816578 bps?","To find the Link Length, we can use the formula given below.
 
   given values:
@@ -3731,7 +3731,7 @@ the answer is: 53 km",53.0
   $Link length = (10.238 - (58493040 / 5717109) - (75 * 1.990641423994453e-05) - (75 * 7.003962683740552e-05)) * 266287389 $
   $Link length = 75 km $
 
-  the answer is: 75 km",75.0
+  the answer is: 75 km",75
 88,"What is the Link Length of a frame of size 33291680 bits transmitted over a link comprising 16 routers, each introducing a queuing delay of 5.73701363780318e-06 seconds and a processing delay of 1.7253502553140587e-05 seconds? The link spans a distance of 9541 km, with a light propagation speed of 241883478 m/sec and a bandwidth of 1320106 bps.","Link Length is the physical distance between two points in a network. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -3766,7 +3766,7 @@ the answer is: 53 km",53.0
   $Link Length = 78 km $
   
 
-  the answer is: 78 km",78.0
+  the answer is: 78 km",78
 89,"What would be the Link Length for a frame size of 38999740 bits that is being sent up on a link with 90 routers, each having a queuing time of 1.2968023309175069e-05 seconds and a processing time of 8.066833310532793e-06 sec? The speed of light inside the link is 253785642 m/sec. The link has a bandwidth of 4236623 bps?","Latency refers to the time delay experienced in data transmission or processing. It encompasses various components:
 
 * **Propagation delay:** Time taken for signals to travel through the physical medium.
@@ -3819,7 +3819,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (61.632 - (90611450 / 1470480) - (67 * 8.857933606541223e-05) - (67 * 8.722876949841604e-05)) * 149494926 $
 $Link Length = 67 km $
 
-the answer is: 67 km",67.0
+the answer is: 67 km",67
 90,"What is the length of the link if the latency of a frame of size 87950390 bits transmitted over the link is 17.504 seconds? Each router introduces a queuing time of 2.4941737170486014e-05 seconds and a processing time of 9.476315196240167e-05 seconds. The link has a speed of light of 202764288 m/sec, and a bandwidth of 1540875 bps.","Latency, the time taken for data to travel from source to destination, comprises several components:
 
 * **Propagation delay:** Time for data to physically travel through the network medium.
@@ -3871,7 +3871,7 @@ the answer is: 67 km",67.0
 
  $Link length = 14000000$
 
-the answer is: 14 km",14.0
+the answer is: 14 km",14
 91,"What is the Link Length for a frame size of 23426340 bits that is being transmitted on a link comprising 53 routers? Each router introduces a queuing time of 6.764357090662487e-05 seconds and a processing time of 6.8142282297949876e-06 seconds. The link spans a distance of 4891 km, with a speed of light within the link of 142084895 m/sec. The link bandwidth is 6464596 bps.","Link Length is the physical distance between the source and destination of a data transmission. It is a key factor in determining the propagation delay, which is the time it takes for a signal to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -3905,7 +3905,7 @@ the answer is: 14 km",14.0
   $Link Length = (34.479 - (23426340 / 6464596) - (53 * 6.764357090662487e-05) - (53 * 6.8142282297949876e-06)) * 142084895$
   $Link Length = 80000$
 
- the answer is: 80 km",80.0
+ the answer is: 80 km",80
 92,What is the Link Length for a frame size of 69416200 bits that is being sent up on a link with 14 routers? Each router has a queuing time of 2.4591168927661186e-06 seconds and a processing time of 6.794349291056466e-05 sec. The speed of light inside the link is 102361069 m/sec. The link has a bandwidth of 1265267 bps.,"Link Length is the physical distance between two points in a network. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel from one end of the link to the other.
 
   To find the Link Length, we can use the formula given below.
@@ -3955,7 +3955,7 @@ $Link Length = (6.983 - (69567790 / 9969172) - (36 * 5.5293011064747284e-05) - (
 
 $Link Length = 36 km $
 
-the answer is: 36 km",36.0
+the answer is: 36 km",36
 93,"What would be the Link Length for a frame with a size of 83516260 bits that is being transmitted on a link consisting of 96 routers? Each router has a queuing time of 7.428936534498721e-05 seconds and a processing time of 8.72891862851023e-05 seconds. The link is 9693 km long, and the speed of light within the link is 283402205 m/sec. Additionally, the link has a bandwidth of 5574881 bps.","Latency, the time it takes for data to travel from source to destination, comprises several components:
 
 * Propagation delay: Time for data to traverse the physical medium (e.g., cables, fiber).
@@ -4004,7 +4004,7 @@ the answer is: 36 km",36.0
 
  $Latency = 15 seconds $
 
-The answer is 75 km.",75.0
+The answer is 75 km.",75
 94,"What is the Link Length for a frame size of 93776500 bits that is being transmitted on a link with 47 routers, each with a queuing time of 6.216316879239215e-05 seconds and a processing time of 5.9634168959167483e-05 seconds? The link has a bandwidth of 4726720 bps, and the speed of light within the link is 237409167 m/sec.","The Link Length is the physical distance between the source and destination of a data transmission. It is a crucial factor in determining the propagation delay, which is the time it takes for data to travel through the link.
 
   To find the Link Length, we can use the formula given below.
@@ -4052,7 +4052,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (19.844 - (93776500 / 4726720) - (47 * 6.216316879239215e-05) - (47 * 5.9634168959167483e-05)) * 237409167 $
 $Link Length = 99 km $
 
-the answer is: 99 km",99.0
+the answer is: 99 km",99
 95,What is the Link Length for a frame size of 68689290 bits that is being sent up on a link with 20 routers each having queuing time of 1.0479313487613761e-05 seconds and a processing time of 5.9928930461924515e-05 sec? The speed of light inside the link is 260901034 m/sec. The link has bandwidth of 4301404 bps?,"Link Length refers to the physical distance between two points in a network connection. It is a crucial factor in determining the propagation delay, which is the time taken for data to travel through the medium.
 
   To find the Link Length, we can use the formula given below.
@@ -4100,8 +4100,7 @@ $Link Length = (Total Latency - (Frame size / Link bandwidth) - (Number of route
 $Link Length = (10.416 - (91248470 / 8763368) - (38 * 6.673550704028117e-05) - (38 * 3.6493228812041835e-05)) * 178546324 $
 $Link Length = 38000 $
 
-the answer is: 38 km",38.0
-id,text,answer,solution
+the answer is: 38 km",38
 0,"What is the Latency for a frame size of 20747120 bits that
 is being sent up on link with 45 routers each having queuing time of 5.983347559482031e-05
 seconds and a processing time of 3.6211817171635395e-05 sec? The length of the link
@@ -9582,7 +9581,6 @@ has bandwidth of 7174322 bps?","
 
 The answer is 2.404 seconds.$
 The answer is 2.404 seconds.",2.404
-id,text,answer,solution
 0,"What would be the Bandwidth for a frame size of 87070170 bits that is being sent up on a link with 55 routers, each having a queuing time of 4.6393338777046124e-05 seconds and a processing time of 4.6693789382892286e-05 sec? The length of the link is 9054 km, and the speed of light inside the link is 210567388 m/sec.","Bandwidth refers to the maximum rate at which data can be transmitted over a communication channel. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9632,7 +9630,7 @@ $Bandwidth = 87070170 / (9.658 - 0.005129792048851198)$
 $Bandwidth = 87070170 / 9.652870207951148$
 $Bandwidth = 87070170 bps$
 
-the answer is: 87070170 bps.",87070170.0
+the answer is: 87070170 bps.",87070170
 1,"What is the bandwidth experienced by a frame of size 90619050 bits transmitted over a link comprising 85 routers, each introducing a queuing delay of 7.061709660040942e-06 seconds and a processing delay of 9.612055027864849e-05 seconds? The link spans a distance of 7967 kilometers, with a signal propagation speed of 171058683 meters per second?","Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9680,7 +9678,7 @@ $Bandwidth = 90619050 / 13.217049209594085 seconds$
 
 $Bandwidth = 90619050 bps$
 
-the answer is: 90619050 bps.",90619050.0
+the answer is: 90619050 bps.",90619050
 2,"What is the Bandwidth of the link comprising 22 routers, each introducing a queuing delay of 7.895098386296875e-05 seconds and a processing delay of 7.152535434562221e-05 seconds? The link spans a distance of 3512 km, with light traveling at a speed of 180977910 m/sec within the link. The frame size is 11257890 bits.","Bandwidth refers to the maximum rate at which data can be transmitted over a network link. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9722,7 +9720,7 @@ No. of routers= 22
 
  $Bandwidth = 11257890 bps $
 
-the answer is: 11257890 bps.",11257890.0
+the answer is: 11257890 bps.",11257890
 3,"What would be the Bandwidth experienced by a frame of size 11941830 bits transmitted over a link comprising 54 routers? Each router introduces a queuing delay of 3.542324549722235e-05 seconds and a processing delay of 8.831112509089819e-05 seconds. The link spans a distance of 5274 km, and the speed of light within the link is 236795652 m/sec.","Bandwidth, also known as network capacity, refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9764,7 +9762,7 @@ No. of routers= 54
 
  $Bandwidth = 11941830 bps $
 
-the answer is: 11941830 bps.",11941830.0
+the answer is: 11941830 bps.",11941830
 4,"What is the Bandwidth for a frame size of 93698780 bits that is being transmitted on a link with 79 routers, each having a queuing time of 2.3746820133785824e-05 seconds and a processing time of 1.3655522466962828e-06 sec? The link is 9805 km long, and the speed of light inside the link is 164695304 m/sec?","Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9812,7 +9810,7 @@ $Bandwidth = 93698780 / (5.955401733241733e-05 - 5.953418076814139e-05 - 0.00187
 $Bandwidth = 93698780 / (2.002303839976192e-06) $
 $Bandwidth = 93698780 bps $
 
-the answer is: 93698780 bps.",93698780.0
+the answer is: 93698780 bps.",93698780
 5,"What is the Bandwidth for a frame size of 11238340 bits that is being sent up on a link with 22 routers, each having a queuing time of 6.086318981095846e-05 seconds and a processing time of 4.3116859887397525e-05 sec? The length of the link is 419 km, and the speed of light inside the link is 151174559 m/sec.","Bandwidth refers to the maximum amount of data that can be transmitted over a network or link in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9860,7 +9858,7 @@ $Bandwidth = 11238340 / (0.002264724111186573 - 2.7716303773044247e-06 - 0.00133
 $Bandwidth = 11238340 / (0.0009265578278223409)$
 $Bandwidth = 11238340 bps$
 
-the answer is: 11238340 bps.",11238340.0
+the answer is: 11238340 bps.",11238340
 6,"What is the Bandwidth for a frame size of 39236350 bits that is being sent up on a link with 94 routers? Each router has a queuing time of 7.822514164284489e-05 seconds and a processing time of 3.819213114570131e-05 sec. The link is 5699 km long, and the speed of light inside the link is 190453141 m/sec.","Bandwidth, the maximum rate at which data can be transferred over a network, is calculated using the formula given below.
 
   given values:
@@ -9904,7 +9902,7 @@ $Bandwidth = 39236350 / (0.004317479471031311 - 2.992282488160634e-05 - 0.000735
 
 $Bandwidth = 85122470 bps$
 
-  The answer is 85122470 bps.",85122470.0
+  The answer is 85122470 bps.",85122470
 7,"What is the bandwidth for a frame of 76253280 bits transmitted over a link with 77 routers, each with a queuing time of 6.299549572201833e-05 seconds and a processing time of 8.54109634848235e-05 seconds? The link is 820 km long, has a speed of light of 177567832 m/sec, and a latency of 5.736 seconds.","Bandwidth, a measure of network capacity, refers to the maximum rate at which data can be transmitted over a network. It is typically expressed in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9928,7 +9926,7 @@ substituting the values:
 $Bandwidth = 76253280 / (5.736 - (820 / 177567832) - (77 * 6.299549572201833e-05) - (77 * 8.54109634848235e-05))$
 $Bandwidth = 38349400 bps$
 
-the answer is: 38349400 bps.",38349400.0
+the answer is: 38349400 bps.",38349400
 8,"What is the bandwidth for a frame of size 90580200 bits transmitted over a link with 91 routers? Each router introduces a queuing delay of 2.0658381940882192e-05 seconds and a processing delay of 2.2671356010649773e-05 seconds. The link has a length of 6633 km, a speed of light of 177854612 m/sec, and a latency of 14.413 seconds.","Bandwidth is the maximum rate at which data can be transmitted over a network or a communication channel. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -9953,7 +9951,7 @@ substituting the values:
 $Bandwidth = 90580200 / (14.413 - (6633 / 177854612) - (91 * 2.0658381940882192e-05) - (91 * 2.2671356010649773e-05))$
 $Bandwidth = 75055310 bps$
 
-the answer is: 75055310 bps.",75055310.0
+the answer is: 75055310 bps.",75055310
 9,"What would be the bandwidth experienced by a frame of size 20734620 bits transmitted over a link consisting of 89 routers? Each router introduces a queuing delay of 9.296536432184726e-05 seconds and a processing delay of 7.610809660168233e-05 seconds. The link has a length of 6180 km, and the speed of light within the link is 101132532 m/sec.","Bandwidth, the maximum rate at which data can be transmitted over a network, is affected by several factors:
 
 * Frame size: The size of the data being transmitted.
@@ -10003,7 +10001,7 @@ the answer is: 75055310 bps.",75055310.0
 
  $Bandwidth = 36719910 bps $
 
-The answer is 36719910 bps.",36719910.0
+The answer is 36719910 bps.",36719910
 10,"What is the Bandwidth for a frame size of 87070170 bits that is being transmitted over a link composed of 55 routers? Each router introduces a queuing time of 4.6393338777046124e-05 seconds and a processing time of 4.6693789382892286e-05 seconds. The link has a length of 9054 km, a speed of light of 210567388 m/sec, and a latency of 8.256 seconds?","Bandwidth is the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10027,7 +10025,7 @@ substituting the values:
 $Bandwidth = 87070170 / (8.256 - (9054 / 210567388) - (55 * 4.6393338777046124e-05) - (55 * 4.6693789382892286e-05))$
 $Bandwidth = 54674790 bps$
 
-the answer is: 54674790 bps.",54674790.0
+the answer is: 54674790 bps.",54674790
 11,"What is the Bandwidth for a frame size of 65905950 bits that is being sent up on a link with 26 routers, each having a queuing time of 3.199864942316602e-05 seconds and a processing time of 5.0014283046333576e-05 sec? The length of the link is 7045 km, and the speed of light inside the link is 290113732 m/sec?","Bandwidth is the maximum rate at which data can be transmitted over a network or a communication channel. It is measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10073,7 +10071,7 @@ $Bandwidth = 65905950 / (0.002133168765365285 - 2.428337567627148e-05 - 0.000831
 
 $Bandwidth = 58234940 bps $
 
-The answer is 58234940 bps.",58234940.0
+The answer is 58234940 bps.",58234940
 12,"What is the bandwidth of a link that can transmit a frame of size 28729490 bits with a total latency of 7.644 seconds? The link consists of 79 routers, each introducing a queuing delay of 6.661354582368961e-05 seconds and a processing delay of 2.102908705142525e-05 seconds. The link has a length of 4263 kilometers, and the speed of light within the link is 169579005 meters per second.","Bandwidth is the maximum rate at which data can be transmitted over a network. It is typically measured in bits per second (bps).
 
 To find the bandwidth, we can use the formula given below:
@@ -10086,7 +10084,7 @@ $Bandwidth = 28729490 / (7.644 - (4263 / 169579005) - (79 * 6.661354582368961e-0
 
 $Bandwidth = 48051910 bps$
 
-Therefore, the bandwidth of the link is 48051910 bps.",48051910.0
+Therefore, the bandwidth of the link is 48051910 bps.",48051910
 13,"What is the bandwidth of a link that transmits a frame with a size of 87768610 bits with a total latency of 5.064 seconds? The link has 50 routers, each introducing a queuing time of 6.061446943436775e-05 seconds and a processing time of 1.6494864823722087e-05 seconds. The link has a length of 6996 km and a speed of light of 117303756 m/sec.","Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
   To find the bandwidth, we can use the formula given below:
@@ -10128,7 +10126,7 @@ Therefore, the bandwidth of the link is 48051910 bps.",48051910.0
 
  $Bandwidth = 30316070 bps $
 
-The answer is 30316070 bps.",30316070.0
+The answer is 30316070 bps.",30316070
 14,"What is the Bandwidth for a frame size of 11257890 bits that is being sent up on a link with 22 routers, each having a queuing time of 7.895098386296875e-05 seconds and a processing time of 7.152535434562221e-05 seconds? The link is 3512 km long, and the speed of light inside the link is 180977910 m/sec.","Bandwidth refers to the maximum data transfer rate of a network link. It is influenced by several factors:
 
 - **Frame size:** Size of the data packets being transmitted.
@@ -10174,7 +10172,7 @@ $Bandwidth = 11257890 / (0.003304665518033221 - (3512  / 180977910) - (22  * 7.8
 
 $Bandwidth = 78316970 bps$
 
-the answer is: 78316970 bps",78316970.0
+the answer is: 78316970 bps",78316970
 15,"What is the Bandwidth for a frame of 95460530 bits transmitted over a link with 52 routers? Each router introduces a queuing time of 7.143085496812538e-05 seconds and a processing time of 7.545893537307395e-05 seconds. The link has a length of 841 km, a speed of light of 189320324 m/sec, and a latency of 20.359 seconds.","Bandwidth, the maximum rate at which data can be transmitted over a link, is influenced by several factors:
 
 * **Frame size:** Size of the data unit being transmitted.
@@ -10221,7 +10219,7 @@ the answer is: 78316970 bps",78316970.0
 
  $Bandwidth = 70676860 bps $
 
-The answer is 70676860 bps.",70676860.0
+The answer is 70676860 bps.",70676860
 16,"What is the Bandwidth of a link that transmits a frame of size 26871200 bits, with a latency of 0.0022418904572498095 seconds for queuing, 0.0048499385885010585 seconds for processing, and a propagation delay of 9.697155890166358e-06 seconds? The link spans a distance of 1787 km, with a speed of light within the link of 201537217 m/sec.","Bandwidth is the maximum rate at which data can be transmitted over a network. It is measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10246,7 +10244,7 @@ $Bandwidth = 26871200 / (0.0022418904572498095 + 0.0048499385885010585 + 9.69715
 $Bandwidth = 89564990 bps$
 
 
-the answer is: 89564990 bps.",89564990.0
+the answer is: 89564990 bps.",89564990
 17,"What would be the Bandwidth for a frame size of 85122470 bits that is being sent up on a link with 93 routers, each having a queuing time of 7.608674957957298e-06 seconds and a processing time of 6.543555036507888e-05 seconds? The link is 9433 km long, and the speed of light inside the link is 207550729 m/sec. Additionally, the link has a latency of 0.001001 seconds.","Bandwidth, also known as network capacity, refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10271,7 +10269,7 @@ No. of routers= 93
   $Bandwidth = 85122470 / (0.001001 - (9433 / 207550729) - (93 * 7.608674957957298e-06) - (93 * 6.543555036507888e-05))$
   $Bandwidth = 39595140 bps$
 
-The answer is 39595140 bps.",39595140.0
+The answer is 39595140 bps.",39595140
 18,"What would be the Bandwidth of a link comprising 54 routers, if a frame of size 18421570 bits is transmitted over it with a Latency of 7.41 seconds? Each router introduces a queuing delay of 1.9532883924441825e-05 seconds and a processing delay of 4.925370259977183e-05 seconds. The link spans a distance of 3011 km, with a signal propagation speed of 106194066 m/sec.","Bandwidth, the maximum rate at which data can be transmitted over a network link, can be calculated using the formula given below.
 
   given values:
@@ -10311,7 +10309,7 @@ The answer is 39595140 bps.",39595140.0
 
  $Bandwidth = 57855740 bps $
 
-the answer is: 57855740 bps.",57855740.0
+the answer is: 57855740 bps.",57855740
 19,"What is the Bandwidth for a frame size of 30316070 bits that is being sent up on a link with 64 routers, each having a queuing time of 8.781602015347116e-05 seconds and a processing time of 6.464346013236752e-05 seconds? The link is 9899 km long, and the speed of light inside the link is 214821358 m/sec?","Bandwidth is the maximum rate at which data can be transmitted over a network. It is measured in bits per second (bps).
 
   To find the Bandwidth, we can use the formula given below.
@@ -10358,7 +10356,7 @@ the answer is: 57855740 bps.",57855740.0
   $Bandwidth = 30316070 / 0.0003600980826227284$
   $Bandwidth = 83516260 bps$
 
-  the answer is: 83516260 bps.",83516260.0
+  the answer is: 83516260 bps.",83516260
 20,"What is the bandwidth of a link that transmits a frame of size 35046070 bits with a total latency of 0.0029216689332424313 seconds? The link consists of 40 routers, each introducing a queuing delay of 7.722565775502141e-05 seconds and a processing delay of 5.240618109116243e-05 seconds. The link has a length of 9298 kilometers, and the speed of light within the link is 222500360 meters per second.","Bandwidth, in networking, refers to the maximum amount of data that can be transmitted over a link in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10384,7 +10382,7 @@ No. of routers= 40
   $Bandwidth = 93776500 bps$
 
 
-the answer is: 93776500 bps.",93776500.0
+the answer is: 93776500 bps.",93776500
 21,"What is the Bandwidth for a frame size of 23161630 bits that is being sent up on a link with 37 routers, each having a queuing time of 3.131764484338802e-06 seconds and a processing time of 2.671996485993107e-05 sec? The length of the link is 5906 km. The speed of light inside the link is 150627419 m/sec?","Bandwidth, the maximum rate at which data can be transmitted over a network, is influenced by four main factors:
 
 * **Propagation delay:** Time taken for data to travel through the physical medium (e.g., fiber optic cable).
@@ -10434,7 +10432,7 @@ $Bandwidth = Frame size / (Total Latency - (Link length / Speed of light) - (Num
 $Bandwidth = 23161630 / (0.0011059641843698856 - (5906 / 150627419) - (37 * 3.131764484338802e-06) - (37 * 2.671996485993107e-05))$
 $Bandwidth = 68689290 bps$
 
-  The answer is 68689290 bps.",68689290.0
+  The answer is 68689290 bps.",68689290
 22,"What is the Bandwidth for a frame size of 78316970 bits that is being sent up on a link with 58 routers, each having a queuing time of 7.625638825112937e-06 seconds and a processing time of 8.683851077240344e-05 sec? The length of the link is 7378 km, and the speed of light inside the link is 100835444 m/sec.","Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10481,7 +10479,7 @@ $Bandwidth = 78316970 / (0.01018220608294507 - 7.31691519959259e-05 - 0.00441486
 
  $Bandwidth = 72800500 bps $
 
-the answer is: 72800500 bps.",72800500.0
+the answer is: 72800500 bps.",72800500
 23,"What is the bandwidth of a link that can transmit a frame of size 80608130 bits with a latency of 15.748 seconds? The link consists of 94 routers, each introducing a queuing delay of 4.591669569339251e-05 seconds and a processing delay of 8.36084281014732e-05 seconds. The link has a length of 1652 km and a speed of light of 163405962 m/sec.","Bandwidth refers to the maximum rate at which data can be transmitted over a link. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10505,7 +10503,7 @@ substituting the values:
 $Bandwidth = 80608130 / (15.748 - (1652 / 163405962) - (94 * 4.591669569339251e-05) - (94 * 8.36084281014732e-05))$
 $Bandwidth = 69212600 bps$
 
-the answer is: 69212600 bps.",69212600.0
+the answer is: 69212600 bps.",69212600
 24,"What is the bandwidth of a link consisting of 41 routers, each with a queuing time of 2.5321692568859674e-05 seconds and a processing time of 2.6245521692273555e-05 seconds? The link has a length of 1,320 kilometers, a speed of light of 161,587,313 meters per second, and a frame size of 82,814,720 bits?","Bandwidth is the maximum rate at which data can be transmitted over a network or link. It is typically measured in bits per second (bps).
 
   To find the bandwidth, we can use the formula given below.
@@ -10552,7 +10550,7 @@ the answer is: 69212600 bps.",69212600.0
 
  $Bandwidth = 18276300 bps $
 
-  the answer is: 18276300 bps.",18276300.0
+  the answer is: 18276300 bps.",18276300
 25,"What is the bandwidth of a link that transmits a frame of size 18825450 bits over 60 routers? Each router introduces a queuing delay of 5.3706475356301614e-05 seconds and a processing delay of 7.799798749101583e-05 seconds. The link has a length of 4349 km, a speed of light of 280319563 m/sec, and a latency of 0.000325 seconds?","Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
   To find the Bandwidth, we can use the formula given below.
@@ -10598,7 +10596,7 @@ $Bandwidth = Frame size / (Total Latency - (Link length / Speed of light) - (Num
 $Bandwidth = 18825450 / (0.008382414985680786 - (4349  / 280319563) - (60  * 5.3706475356301614e-05) - (60 * 7.799798749101583e-05)) $
 $Bandwidth = 28012520 bps$
 
-  the answer is: 28012520 bps.",28012520.0
+  the answer is: 28012520 bps.",28012520
 26,"What is the bandwidth of a 81043370-bit frame transmitted over a link with 55 routers? Each router has a queuing time of 2.115695573377331e-05 seconds and a processing time of 9.022838261342664e-05 seconds. The link is 2802 km long, the speed of light within the link is 222780489 m/sec, and the latency is 12.6 seconds.","Bandwidth, in network communication, refers to the maximum rate at which data can be transmitted over a network or link. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10627,7 +10625,7 @@ No. of routers= 55
 
  $Bandwidth = 81043370 bps$
 
-the answer is: 81043370 bps.",81043370.0
+the answer is: 81043370 bps.",81043370
 27,"What is the Bandwidth experienced by a frame of size 89564990 bits transmitted over a link consisting of 52 routers, each introducing a queuing delay of 4.3113278024034796e-05 seconds and a processing delay of 9.326804977886651e-05 seconds? The link spans a distance of 2410 km, with a signal propagation speed of 248526478 m/sec and a latency of 6.642 seconds?","Bandwidth, the maximum rate at which data can be transmitted over a network, is affected by several factors:
 
 * **Frame size:** Size of the data unit being transmitted.
@@ -10671,7 +10669,7 @@ the answer is: 81043370 bps.",81043370.0
 
  $Bandwidth = 26391840 bps $
 
-The answer is 26391840 bps.",26391840.0
+The answer is 26391840 bps.",26391840
 28,"What is the bandwidth experienced by a frame of size 28813490 bits transmitted over a link comprising 55 routers? Each router introduces a queuing delay of 6.660416075977562e-05 seconds and a processing delay of 1.4650884185569154e-05 seconds. The link spans a distance of 7481 kilometers, with a signal propagation speed of 266059546 meters per second.","Bandwidth, the maximum rate at which data can be transmitted over a network, can be calculated using the formula given below.
 
   given values:
@@ -10714,7 +10712,7 @@ $Bandwidth = Frame size / (Total Latency - (Link length / Speed of light) - (Num
 $Bandwidth = 28813490 / (0.004469244525601983 - (7481  / 266059546) - (55  * 6.660416075977562e-05) - (55 * 1.4650884185569154e-05)  )$
 $Bandwidth = 35286010 bps$
 
-the answer is: 35286010 bps.",35286010.0
+the answer is: 35286010 bps.",35286010
 29,"What is the Bandwidth of a link comprising 16 routers, each introducing a queuing delay of 5.73701363780318e-06 seconds and a processing delay of 1.7253502553140587e-05 seconds? The link spans a distance of 9541 km, with a light propagation speed of 241883478 m/sec and a frame size of 33291680 bits?","Bandwidth, also known as network capacity, refers to the maximum amount of data that can be transmitted over a network in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10761,7 +10759,7 @@ No. of routers= 16
  $Bandwidth = 33291680 / (0.003673049000551049 - 3.945663852995471e-05 - 0.0009179221820485088 - 0.002760560408502494)$
  $Bandwidth = 33291680 / 0.0007611077804500446$
 
-the answer is: 87076120 bps.",87076120.0
+the answer is: 87076120 bps.",87076120
 30,"What is the bandwidth of a link that transmits a frame of size 87950390 bits with a latency of 17.504 seconds? The link has 19 routers, each introducing a queuing time of 2.4941737170486014e-05 seconds and a processing time of 9.476315196240167e-05 seconds. The link has a length of 4507 km and a speed of light of 202764288 m/sec.","Bandwidth, the maximum rate at which data can be transmitted over a network link, can be calculated using the formula given below.
 
   given values:
@@ -10801,7 +10799,7 @@ the answer is: 87076120 bps.",87076120.0
 
  $Bandwidth = 42738470 bps $
 
-The answer is 42738470 bps.",42738470.0
+The answer is 42738470 bps.",42738470
 31,"What is the bandwidth of a link consisting of 14 routers, each introducing a queuing delay of 6.428498025893664e-05 seconds and a processing delay of 5.8262933728136306e-05 seconds, over which a frame of size 93042450 bits is transmitted? The link spans a distance of 8477 km, with a signal propagation speed of 125016611 m/sec and a latency of 10.404 seconds?","Bandwidth, the maximum rate at which data can be transmitted over a network, is influenced by four key factors:
 
 * **Propagation delay:** The time it takes for data to physically travel through a medium, such as a cable or fiber optic.
@@ -10848,7 +10846,7 @@ The answer is 42738470 bps.",42738470.0
 
  $Bandwidth = 64090250 bps $
 
-the answer is: 64090250 bps.",64090250.0
+the answer is: 64090250 bps.",64090250
 32,"What is the Bandwidth for a frame size of 23426340 bits that is being transmitted on a link comprising 53 routers? Each router introduces a queuing time of 6.764357090662487e-05 seconds and a processing time of 6.8142282297949876e-06 seconds. The link spans a distance of 4891 km, with a speed of light within the link of 142084895 m/sec.","Bandwidth is the maximum rate at which data can be transmitted over a network or link. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10894,7 +10892,7 @@ $Bandwidth = Frame size / (Total Latency - (Link length / Speed of light) - (Num
 $Bandwidth = 23426340 / (0.0039971038008379173 - (4891 / 142084895) - (53 * 6.764357090662487e-05) - (53 * 6.8142282297949876e-06))$
 $Bandwidth = 56841830 bps$
 
-the answer is: 56841830 bps.",56841830.0
+the answer is: 56841830 bps.",56841830
 33,What is the Bandwidth for a frame size of 69416200 bits that is being sent up on a link with 14 routers? Each router has a queuing time of 2.4591168927661186e-06 seconds and a processing time of 6.794349291056466e-05 sec. The length of the link is 7570 km. The speed of light inside the link is 102361069 m/sec.,"Bandwidth is the maximum rate at which data can be transmitted over a network or communication channel. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10933,7 +10931,7 @@ $Bandwidth = 69567790 / (6.983 - 2.089680061629655e-05 - 0.001990548398330902 - 
 $Bandwidth = 69567790 / 6.9782916775836545$
 $Bandwidth = 69567790 bps$
 
-the answer is: 69567790 bps.",69567790.0
+the answer is: 69567790 bps.",69567790
 34,"What is the Bandwidth for a frame size of 93776500 bits that is being transmitted on a link with 47 routers, each with a queuing time of 6.216316879239215e-05 seconds and a processing time of 5.9634168959167483e-05 seconds? The link is 115 km long, and the speed of light within the link is 237409167 m/sec.","Bandwidth refers to the maximum amount of data that can be transmitted over a network connection in a given amount of time. It is typically measured in bits per second (bps).
 
 To find the Bandwidth, we can use the formula given below.
@@ -10979,8 +10977,7 @@ $Bandwidth = 93776500 / (0.005731824212374738 - 4.842230569682747e-06 - 0.002919
 
  $Bandwidth = 34846310 bps $
 
-the answer is: 34846310 bps.",34846310.0
-id,text,answer,solution
+the answer is: 34846310 bps.",34846310
 0,"What is the latency experienced by a frame of size 20747120 bits transmitted over a link consisting of 45 routers, each introducing a queuing delay of 5.983347559482031e-05 seconds and a processing delay of 3.6211817171635395e-05 seconds? The link spans a distance of 8076 kilometers, with a signal propagation speed of 294363845 meters per second and a bandwidth of 3189163 bits per second?","
   Latency, the time it takes for data to travel from one point to another, encompasses several components:
 
