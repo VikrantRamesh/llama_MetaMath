@@ -6088,7 +6088,6 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $throughput = (4800.0) B/s = (4800.0/1000) KB/s = 4.8 KB/s$
 
 The answer is 4.8 KB/s.",4.8
-id,text,answer,solution
 0,"A network has a maximum window size (MSS) of 3080 bytes and a round trip time (RTT) of 3500 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol)** is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by establishing a virtual connection between two endpoints, providing error checking, flow control, and congestion avoidance mechanisms.
@@ -6113,7 +6112,7 @@ id,text,answer,solution
   $Throughput = (3080000)/(700.0)$
   $throughput = (4400.0) B/s = (4400.0/1000) KB/s = 4.4 KB/s$
 
-The answer is 4.4 KB/s.",4400.0
+The answer is 4.4 KB/s.",4400
 1,"A network has a maximum window size (MSS) of 3456 bytes and a round trip time (RTT) of 4800 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides a reliable end-to-end delivery service for data transmission between two hosts. TCP ensures that data is delivered in the correct order, without errors, and with no data loss.
@@ -6138,7 +6137,7 @@ Throughput refers to the amount of data that can be successfully transmitted ove
   $Throughput = (3456000)/(960.0)$
   $throughput = (3600.0) B/s = (3600.0/1000) KB/s = 3.6 KB/s$
 
-The answer is 3.6 KB/s.",3600.0
+The answer is 3.6 KB/s.",3600
 2,"A network has a maximum window size (MSS) of 414 bytes and a round trip time (RTT) of 2300 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol):**
@@ -6167,7 +6166,7 @@ Throughput refers to the rate at which data is successfully transmitted over a n
   $Throughput = (414000)/(230.0)$
   $throughput = (1800.0) B/s = (1800.0/1000) KB/s = 1.8 KB/s$
 
-The answer is 1.8 KB/s.",1800.0
+The answer is 1.8 KB/s.",1800
 3,"A network has a maximum window size (MSS) of 7182 bytes and a round trip time (RTT) of 3800 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by providing error correction, flow control, and congestion control mechanisms.
@@ -6192,7 +6191,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (7182000)/(1140.0)$
   $throughput = (6300.0) B/s = (6300.0/1000) KB/s = 6.3 KB/s$
 
-The answer is 6.3 KB/s.",6300.0
+The answer is 6.3 KB/s.",6300
 4,"A network has a maximum window size (MSS) of 2688 bytes and a round trip time (RTT) of 4200 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors. It uses a sliding window mechanism to control the flow of data and prevent congestion.
@@ -6217,7 +6216,7 @@ The throughput of a TCP connection is the rate at which data is successfully tra
   $Throughput = (2688000)/(1680.0)$
   $throughput = (1600.0) B/s = (1600.0/1000) KB/s = 1.6 KB/s$
 
-The answer is 1.6 KB/s.",1600.0
+The answer is 1.6 KB/s.",1600
 5,"A network has a maximum window size (MSS) of 32375 bytes and a round trip time (RTT) of 3500 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual circuit between two endpoints, guaranteeing data integrity and flow control.
@@ -6242,7 +6241,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (32375000)/(1750.0)$
   $throughput = (18500.0) B/s = (18500.0/1000) KB/s = 18.5 KB/s$
 
-The answer is 18.5 KB/s.",18500.0
+The answer is 18.5 KB/s.",18500
 6,"A network has a maximum window size (MSS) of 464 bytes and a round trip time (RTT) of 2900 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data delivery by using error correction and retransmission mechanisms.
@@ -6267,7 +6266,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (464000)/(290.0)$
   $throughput = (1600.0) B/s = (1600.0/1000) KB/s = 1.6 KB/s$
 
-The answer is 1.6 KB/s.",1600.0
+The answer is 1.6 KB/s.",1600
 7,"A network has a maximum window size (MSS) of 34075 bytes and a round trip time (RTT) of 4700 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors. It establishes a virtual circuit between the sender and receiver, acknowledging each packet received and retransmitting lost packets.
@@ -6292,7 +6291,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (34075000)/(2350.0)$
   $throughput = (14500.0) B/s = (14500.0/1000) KB/s = 14.5 KB/s$
 
-The answer is 14.5 KB/s.",14500.0
+The answer is 14.5 KB/s.",14500
 8,"A network has a maximum window size (MSS) of 868 bytes and a round trip time (RTT) of 700 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order over a network. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data, preventing congestion and ensuring efficient data transfer.
@@ -6317,7 +6316,7 @@ The throughput of a TCP connection is the rate at which data is successfully tra
   $Throughput = (868000)/(140.0)$
   $throughput = (6200.0) B/s = (6200.0/1000) KB/s = 6.2 KB/s$
 
-The answer is 6.2 KB/s.",6200.0
+The answer is 6.2 KB/s.",6200
 9,"A network has a maximum window size (MSS) of 7616 bytes and a round trip time (RTT) of 1400 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data delivery over an unreliable network by using acknowledgements, retransmissions, and flow control.
@@ -6342,7 +6341,7 @@ The throughput of a TCP connection is the rate at which data can be transmitted 
   $Throughput = (7616000)/(560.0)$
   $throughput = (13600.0) B/s = (13600.0/1000) KB/s = 13.6 KB/s$
 
-The answer is 13.6 KB/s.",13600.0
+The answer is 13.6 KB/s.",13600
 10,"A network has a maximum window size (MSS) of 36096 bytes and a round trip time (RTT) of 4800 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in the correct order. It uses a sliding window mechanism to control the flow of data and employs error correction and retransmission mechanisms to handle data loss or corruption.
@@ -6367,7 +6366,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (36096000)/(1920.0)$
   $throughput = (18800.0) B/s = (18800.0/1000) KB/s = 18.8 KB/s$
 
-The answer is 18.8 KB/s.",18800.0
+The answer is 18.8 KB/s.",18800
 11,"A network has a maximum window size (MSS) of 2960 bytes and a round trip time (RTT) of 3700 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -6392,7 +6391,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (2960000)/(1480.0)$
   $throughput = (2000.0) B/s = (2000.0/1000) KB/s = 2.0 KB/s$
 
-The answer is 2.0 KB/s.",2000.0
+The answer is 2.0 KB/s.",2000
 12,"A network has a maximum window size (MSS) of 16576 bytes and a round trip time (RTT) of 3700 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -6417,7 +6416,7 @@ The throughput of a TCP connection refers to the rate at which data can be succe
   $Throughput = (16576000)/(1480.0)$
   $throughput = (11200.0) B/s = (11200.0/1000) KB/s = 11.2 KB/s$
 
-The answer is 11.2 KB/s.",11200.0
+The answer is 11.2 KB/s.",11200
 13,"A network has a maximum window size (MSS) of 645 bytes and a round trip time (RTT) of 1500 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol):**
@@ -6446,7 +6445,7 @@ Throughput refers to the rate at which data is successfully transmitted over a T
   $Throughput = (645000)/(150.0)$
   $throughput = (4300.0) B/s = (4300.0/1000) KB/s = 4.3 KB/s$
 
-The answer is 4.3 KB/s.",4300.0
+The answer is 4.3 KB/s.",4300
 14,"A network has a maximum window size (MSS) of 5760 bytes and a round trip time (RTT) of 3200 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by acknowledging received data and retransmitting lost or corrupted packets.
@@ -6471,7 +6470,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (5760000)/(640.0)$
   $throughput = (9000.0) B/s = (9000.0/1000) KB/s = 9.0 KB/s$
 
-The answer is 9.0 KB/s.",9000.0
+The answer is 9.0 KB/s.",9000
 15,"A network has a maximum window size (MSS) of 960 bytes and a round trip time (RTT) of 1000 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol Suite. It provides reliable data transfer between applications running on different hosts. TCP ensures that data is delivered in the correct order, without errors, and without duplication.
@@ -6496,7 +6495,7 @@ The throughput of a TCP connection is the maximum rate at which data can be tran
   $Throughput = (960000)/(200.0)$
   $throughput = (4800.0) B/s = (4800.0/1000) KB/s = 4.8 KB/s$
 
-The answer is 4.8 KB/s.",4800.0
+The answer is 4.8 KB/s.",4800
 16,"A network has a maximum window size (MSS) of 144 bytes and a round trip time (RTT) of 600 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data delivery by providing error checking, flow control, and congestion control mechanisms.
@@ -6521,7 +6520,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (144000)/(60.0)$
   $throughput = (2400.0) B/s = (2400.0/1000) KB/s = 2.4 KB/s$
 
-The answer is 2.4 KB/s.",2400.0
+The answer is 2.4 KB/s.",2400
 17,"A network has a maximum window size (MSS) of 3888 bytes and a round trip time (RTT) of 4800 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport protocol that ensures data is delivered accurately and in order. It uses a sliding window mechanism to control the flow of data, ensuring that the sender does not overwhelm the receiver.
@@ -6546,7 +6545,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (3888000)/(1440.0)$
   $throughput = (2700.0) B/s = (2700.0/1000) KB/s = 2.7 KB/s$
 
-The answer is 2.7 KB/s.",2700.0
+The answer is 2.7 KB/s.",2700
 18,"A network has a maximum window size (MSS) of 1599 bytes and a round trip time (RTT) of 3900 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data delivery and integrity over a network. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data, ensuring that data is transmitted and received in the correct order and without errors.
@@ -6571,7 +6570,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (1599000)/(390.0)$
   $throughput = (4100.0) B/s = (4100.0/1000) KB/s = 4.1 KB/s$
 
-The answer is 4.1 KB/s.",4100.0
+The answer is 4.1 KB/s.",4100
 19,"A network has a maximum window size (MSS) of 384 bytes and a round trip time (RTT) of 300 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data delivery by using error correction, flow control, and congestion control mechanisms.
@@ -6596,7 +6595,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted a
   $Throughput = (384000)/(120.0)$
   $throughput = (3200.0) B/s = (3200.0/1000) KB/s = 3.2 KB/s$
 
-The answer is 3.2 KB/s.",3200.0
+The answer is 3.2 KB/s.",3200
 20,"A network has a maximum window size (MSS) of 18 bytes and a round trip time (RTT) of 100 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data delivery by using error checking, flow control, and retransmission mechanisms.
@@ -6621,7 +6620,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (18000)/(10.0)$
   $throughput = (1800.0) B/s = (1800.0/1000) KB/s = 1.8 KB/s$
 
-The answer is 1.8 KB/s.",1800.0
+The answer is 1.8 KB/s.",1800
 21,"A network has a maximum window size (MSS) of 6144 bytes and a round trip time (RTT) of 1600 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol. It ensures reliable data transmission by using sequence numbers, acknowledgments, and retransmissions. TCP's throughput is the rate at which data can be successfully transmitted over a network connection. It is influenced by factors such as network bandwidth, latency, and congestion control algorithms.
@@ -6644,7 +6643,7 @@ The answer is 1.8 KB/s.",1800.0
   $Throughput = (6144000)/(640.0)$
   $throughput = (9600.0) B/s = (9600.0/1000) KB/s = 9.6 KB/s$
 
-The answer is 9.6 KB/s.",9600.0
+The answer is 9.6 KB/s.",9600
 22,"A network has a maximum window size (MSS) of 120 bytes and a round trip time (RTT) of 400 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures the delivery of data packets in the correct order and without errors. It operates on a client-server model, where the client initiates a connection to the server and the server responds.
@@ -6669,7 +6668,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (120000)/(40.0)$
   $throughput = (3000.0) B/s = (3000.0/1000) KB/s = 3.0 KB/s$
 
-The answer is 3.0 KB/s.",3000.0
+The answer is 3.0 KB/s.",3000
 23,"A network has a maximum window size (MSS) of 3564 bytes and a round trip time (RTT) of 900 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures the reliable delivery of data over a network. It provides error correction, flow control, and congestion control mechanisms to optimize data transmission.
@@ -6694,7 +6693,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (3564000)/(270.0)$
   $throughput = (13200.0) B/s = (13200.0/1000) KB/s = 13.2 KB/s$
 
-The answer is 13.2 KB/s.",13200.0
+The answer is 13.2 KB/s.",13200
 24,"A network has a maximum window size (MSS) of 2538 bytes and a round trip time (RTT) of 600 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer between applications running on different hosts.
@@ -6719,7 +6718,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (2538000)/(180.0)$
   $throughput = (14100.0) B/s = (14100.0/1000) KB/s = 14.1 KB/s$
 
-The answer is 14.1 KB/s.",14100.0
+The answer is 14.1 KB/s.",14100
 25,"A network has a maximum window size (MSS) of 3800 bytes and a round trip time (RTT) of 3800 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data delivery by using a three-way handshake to establish a connection, error checking, and retransmission of lost packets.
@@ -6744,7 +6743,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (3800000)/(760.0)$
   $throughput = (5000.0) B/s = (5000.0/1000) KB/s = 5.0 KB/s$
 
-The answer is 5.0 KB/s.",5000.0
+The answer is 5.0 KB/s.",5000
 26,"A network has a maximum window size (MSS) of 204 bytes and a round trip time (RTT) of 1700 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides guaranteed delivery of data between two endpoints, ensuring that data is not lost or corrupted during transmission.
@@ -6769,7 +6768,7 @@ The throughput of a TCP connection is the rate at which data can be transmitted 
   $Throughput = (204000)/(170.0)$
   $throughput = (1200.0) B/s = (1200.0/1000) KB/s = 1.2 KB/s$
 
-The answer is 1.2 KB/s.",1200.0
+The answer is 1.2 KB/s.",1200
 27,"A network has a maximum window size (MSS) of 6273 bytes and a round trip time (RTT) of 1700 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer between two hosts by establishing a virtual connection and ensuring that data is delivered in the correct order and without errors.
@@ -6794,7 +6793,7 @@ The throughput of a TCP connection is the maximum rate at which data can be tran
   $Throughput = (6273000)/(510.0)$
   $throughput = (12300.0) B/s = (12300.0/1000) KB/s = 12.3 KB/s$
 
-The answer is 12.3 KB/s.",12300.0
+The answer is 12.3 KB/s.",12300
 28,"A network has a maximum window size (MSS) of 5031 bytes and a round trip time (RTT) of 4300 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data transfer by using a three-way handshake, sequence numbers, and acknowledgment packets.
@@ -6819,7 +6818,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (5031000)/(1290.0)$
   $throughput = (3900.0) B/s = (3900.0/1000) KB/s = 3.9 KB/s$
 
-The answer is 3.9 KB/s.",3900.0
+The answer is 3.9 KB/s.",3900
 29,"A network has a maximum window size (MSS) of 1386 bytes and a round trip time (RTT) of 1400 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual circuit between two endpoints, providing reliable data transfer and flow control mechanisms.
@@ -6844,7 +6843,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (1386000)/(420.0)$
   $throughput = (3300.0) B/s = (3300.0/1000) KB/s = 3.3 KB/s$
 
-The answer is 3.3 KB/s.",3300.0
+The answer is 3.3 KB/s.",3300
 30,"A network has a maximum window size (MSS) of 432 bytes and a round trip time (RTT) of 300 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transmission between two hosts by establishing a virtual circuit and using sequence numbers and acknowledgements to ensure data integrity and delivery.
@@ -6869,7 +6868,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (432000)/(60.0)$
   $throughput = (7200.0) B/s = (7200.0/1000) KB/s = 7.2 KB/s$
 
-The answer is 7.2 KB/s.",7200.0
+The answer is 7.2 KB/s.",7200
 31,"A network has a maximum window size (MSS) of 1504 bytes and a round trip time (RTT) of 4700 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by using error correction and retransmission mechanisms.
@@ -6894,7 +6893,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (1504000)/(940.0)$
   $throughput = (1600.0) B/s = (1600.0/1000) KB/s = 1.6 KB/s$
 
-The answer is 1.6 KB/s.",1600.0
+The answer is 1.6 KB/s.",1600
 32,"A network has a maximum window size (MSS) of 1044 bytes and a round trip time (RTT) of 900 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two hosts and uses a sliding window mechanism to control the flow of data.
@@ -6919,7 +6918,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (1044000)/(180.0)$
   $throughput = (5800.0) B/s = (5800.0/1000) KB/s = 5.8 KB/s$
 
-The answer is 5.8 KB/s.",5800.0
+The answer is 5.8 KB/s.",5800
 33,"A network has a maximum window size (MSS) of 20150 bytes and a round trip time (RTT) of 2600 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol)** is a reliable, connection-oriented transport layer protocol that ensures the reliable delivery of data over a network. It establishes a virtual circuit between two endpoints, guaranteeing in-order delivery and error correction.
@@ -6944,7 +6943,7 @@ The answer is 5.8 KB/s.",5800.0
   $Throughput = (20150000)/(1300.0)$
   $throughput = (15500.0) B/s = (15500.0/1000) KB/s = 15.5 KB/s$
 
-The answer is 15.5 KB/s.",15500.0
+The answer is 15.5 KB/s.",15500
 34,"A network has a maximum window size (MSS) of 259 bytes and a round trip time (RTT) of 3700 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures the reliable delivery of data over a network. It establishes a virtual circuit between two endpoints and provides mechanisms for flow control, error correction, and congestion control.
@@ -6968,7 +6967,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (259)/(3700*0.1)*1000$
   $Throughput = (259000)/(370.0)$
   $throughput = (700.0) B/s$
-The answer is 700.0 B/s.",700.0
+The answer is 700.0 B/s.",700
 35,"A network has a maximum window size (MSS) of 4712 bytes and a round trip time (RTT) of 3800 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data transmission by establishing a virtual connection between two hosts and ensuring that data is delivered in the correct order and without errors.
@@ -6993,7 +6992,7 @@ The throughput of a TCP connection is the maximum rate at which data can be tran
   $Throughput = (4712000)/(760.0)$
   $throughput = (6200.0) B/s = (6200.0/1000) KB/s = 6.2 KB/s$
 
-The answer is 6.2 KB/s.",6200.0
+The answer is 6.2 KB/s.",6200
 36,"A network has a maximum window size (MSS) of 988 bytes and a round trip time (RTT) of 2600 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data delivery by using a three-way handshake to establish a connection, acknowledging received data, and retransmitting lost data.
@@ -7018,7 +7017,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (988000)/(260.0)$
   $throughput = (3800.0) B/s = (3800.0/1000) KB/s = 3.8 KB/s$
 
-The answer is 3.8 KB/s.",3800.0
+The answer is 3.8 KB/s.",3800
 37,"A network has a maximum window size (MSS) of 2128 bytes and a round trip time (RTT) of 1900 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data transfer by establishing a virtual connection between two hosts, ensuring that data is delivered in the correct order and without errors.
@@ -7043,7 +7042,7 @@ The throughput of a TCP connection is the maximum rate at which data can be tran
   $Throughput = (2128000)/(380.0)$
   $throughput = (5600.0) B/s = (5600.0/1000) KB/s = 5.6 KB/s$
 
-The answer is 5.6 KB/s.",5600.0
+The answer is 5.6 KB/s.",5600
 38,"A network has a maximum window size (MSS) of 3000 bytes and a round trip time (RTT) of 1500 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data delivery over a network. It establishes a virtual connection between two endpoints and provides error correction, flow control, and congestion avoidance mechanisms.
@@ -7068,7 +7067,7 @@ The throughput of a TCP connection refers to the rate at which data can be succe
   $Throughput = (3000000)/(300.0)$
   $throughput = (10000.0) B/s = (10000.0/1000) KB/s = 10.0 KB/s$
 
-The answer is 10.0 KB/s.",10000.0
+The answer is 10.0 KB/s.",10000
 39,"A network has a maximum window size (MSS) of 2240 bytes and a round trip time (RTT) of 1000 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by using a three-way handshake, sequence numbers, and acknowledgments. TCP ensures that data is delivered in the correct order and without errors.
@@ -7093,7 +7092,7 @@ The throughput of a TCP connection is the maximum rate at which data can be tran
   $Throughput = (2240000)/(400.0)$
   $throughput = (5600.0) B/s = (5600.0/1000) KB/s = 5.6 KB/s$
 
-The answer is 5.6 KB/s.",5600.0
+The answer is 5.6 KB/s.",5600
 40,"A network has a maximum window size (MSS) of 645 bytes and a round trip time (RTT) of 1500 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by using a three-way handshake to establish a connection, ensuring that data is delivered in the correct order and without errors.
@@ -7118,7 +7117,7 @@ The throughput of a TCP connection is the rate at which data can be transmitted 
   $Throughput = (645000)/(150.0)$
   $throughput = (4300.0) B/s = (4300.0/1000) KB/s = 4.3 KB/s$
 
-The answer is 4.3 KB/s.",4300.0
+The answer is 4.3 KB/s.",4300
 41,"A network has a maximum window size (MSS) of 23500 bytes and a round trip time (RTT) of 4700 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport protocol that ensures data is transmitted accurately and in order. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7143,7 +7142,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (23500000)/(2350.0)$
   $throughput = (10000.0) B/s = (10000.0/1000) KB/s = 10.0 KB/s$
 
-The answer is 10.0 KB/s.",10000.0
+The answer is 10.0 KB/s.",10000
 42,"A network has a maximum window size (MSS) of 1188 bytes and a round trip time (RTT) of 1100 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two endpoints and uses a three-way handshake to initiate communication. TCP's throughput, measured in bits per second, represents the rate at which data is successfully transmitted and received over a network connection. Factors influencing TCP throughput include network bandwidth, latency, congestion control algorithms, and application-specific characteristics.
@@ -7166,7 +7165,7 @@ The answer is 10.0 KB/s.",10000.0
   $Throughput = (1188000)/(220.0)$
   $throughput = (5400.0) B/s = (5400.0/1000) KB/s = 5.4 KB/s$
 
-The answer is 5.4 KB/s.",5400.0
+The answer is 5.4 KB/s.",5400
 43,"A network has a maximum window size (MSS) of 7992 bytes and a round trip time (RTT) of 3700 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data transfer between two hosts by establishing a virtual connection and ensuring that data is delivered in the correct order and without errors.
@@ -7191,7 +7190,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (7992000)/(1110.0)$
   $throughput = (7200.0) B/s = (7200.0/1000) KB/s = 7.2 KB/s$
 
-The answer is 7.2 KB/s.",7200.0
+The answer is 7.2 KB/s.",7200
 44,"A network has a maximum window size (MSS) of 3564 bytes and a round trip time (RTT) of 2200 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by providing error correction, flow control, and congestion control mechanisms.
@@ -7216,7 +7215,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted a
   $Throughput = (3564000)/(660.0)$
   $throughput = (5400.0) B/s = (5400.0/1000) KB/s = 5.4 KB/s$
 
-The answer is 5.4 KB/s.",5400.0
+The answer is 5.4 KB/s.",5400
 45,"A network has a maximum window size (MSS) of 5670 bytes and a round trip time (RTT) of 1500 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in the correct order. It establishes a virtual circuit between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7241,7 +7240,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (5670000)/(450.0)$
   $throughput = (12600.0) B/s = (12600.0/1000) KB/s = 12.6 KB/s$
 
-The answer is 12.6 KB/s.",12600.0
+The answer is 12.6 KB/s.",12600
 46,"A network has a maximum window size (MSS) of 6204 bytes and a round trip time (RTT) of 4700 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by providing error correction, flow control, and congestion control mechanisms.
@@ -7266,7 +7265,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted a
   $Throughput = (6204000)/(940.0)$
   $throughput = (6600.0) B/s = (6600.0/1000) KB/s = 6.6 KB/s$
 
-The answer is 6.6 KB/s.",6600.0
+The answer is 6.6 KB/s.",6600
 47,"A network has a maximum window size (MSS) of 900 bytes and a round trip time (RTT) of 3000 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data delivery by using acknowledgements and retransmissions.
@@ -7291,7 +7290,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (900000)/(300.0)$
   $throughput = (3000.0) B/s = (3000.0/1000) KB/s = 3.0 KB/s$
 
-The answer is 3.0 KB/s.",3000.0
+The answer is 3.0 KB/s.",3000
 48,"A network has a maximum window size (MSS) of 1540 bytes and a round trip time (RTT) of 1100 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   Transmission Control Protocol (TCP) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It uses a three-way handshake to establish a connection and employs various mechanisms like flow control and congestion control to optimize data transfer.
@@ -7316,7 +7315,7 @@ TCP throughput refers to the rate at which data is successfully transmitted over
   $Throughput = (1540000)/(220.0)$
   $throughput = (7000.0) B/s = (7000.0/1000) KB/s = 7.0 KB/s$
 
-The answer is 7.0 KB/s.",7000.0
+The answer is 7.0 KB/s.",7000
 49,"A network has a maximum window size (MSS) of 3328 bytes and a round trip time (RTT) of 1600 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered correctly and in order. It uses a sliding window mechanism to control the flow of data, ensuring that the sender does not overwhelm the receiver.
@@ -7341,7 +7340,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (3328000)/(640.0)$
   $throughput = (5200.0) B/s = (5200.0/1000) KB/s = 5.2 KB/s$
 
-The answer is 5.2 KB/s.",5200.0
+The answer is 5.2 KB/s.",5200
 50,"A network has a maximum window size (MSS) of 616 bytes and a round trip time (RTT) of 1400 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order over a network. It uses a sliding window mechanism to control the flow of data, ensuring that the sender does not overwhelm the receiver with data.
@@ -7366,7 +7365,7 @@ The throughput of a TCP connection is the rate at which data can be transferred 
   $Throughput = (616000)/(140.0)$
   $throughput = (4400.0) B/s = (4400.0/1000) KB/s = 4.4 KB/s$
 
-The answer is 4.4 KB/s.",4400.0
+The answer is 4.4 KB/s.",4400
 51,"A network has a maximum window size (MSS) of 5952 bytes and a round trip time (RTT) of 1200 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable, in-order delivery of data over an unreliable network.
@@ -7391,7 +7390,7 @@ Throughput is the rate at which data is transferred from one point to another. I
   $Throughput = (5952000)/(480.0)$
   $throughput = (12400.0) B/s = (12400.0/1000) KB/s = 12.4 KB/s$
 
-The answer is 12.4 KB/s.",12400.0
+The answer is 12.4 KB/s.",12400
 52,"A network has a maximum window size (MSS) of 4752 bytes and a round trip time (RTT) of 2700 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors.
@@ -7416,7 +7415,7 @@ Throughput of TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (4752000)/(540.0)$
   $throughput = (8800.0) B/s = (8800.0/1000) KB/s = 8.8 KB/s$
 
-The answer is 8.8 KB/s.",8800.0
+The answer is 8.8 KB/s.",8800
 53,"A network has a maximum window size (MSS) of 14805 bytes and a round trip time (RTT) of 3500 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7441,7 +7440,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (14805000)/(1050.0)$
   $throughput = (14100.0) B/s = (14100.0/1000) KB/s = 14.1 KB/s$
 
-The answer is 14.1 KB/s.",14100.0
+The answer is 14.1 KB/s.",14100
 54,"A network has a maximum window size (MSS) of 720 bytes and a round trip time (RTT) of 4500 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data transmission by providing error correction, flow control, and congestion control mechanisms.
@@ -7465,7 +7464,7 @@ The throughput of a TCP connection refers to the rate at which data can be succe
   $Throughput = (720)/(4500*0.2)*1000$
   $Throughput = (720000)/(900.0)$
   $throughput = (800.0) B/s$
-The answer is 800.0 B/s.",800.0
+The answer is 800.0 B/s.",800
 55,"A network has a maximum window size (MSS) of 2944 bytes and a round trip time (RTT) of 2300 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7490,7 +7489,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (2944000)/(920.0)$
   $throughput = (3200.0) B/s = (3200.0/1000) KB/s = 3.2 KB/s$
 
-The answer is 3.2 KB/s.",3200.0
+The answer is 3.2 KB/s.",3200
 56,"A network has a maximum window size (MSS) of 2304 bytes and a round trip time (RTT) of 2400 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol):**
@@ -7519,7 +7518,7 @@ Throughput refers to the rate at which data can be successfully transmitted over
   $Throughput = (2304000)/(480.0)$
   $throughput = (4800.0) B/s = (4800.0/1000) KB/s = 4.8 KB/s$
 
-The answer is 4.8 KB/s.",4800.0
+The answer is 4.8 KB/s.",4800
 57,"A network has a maximum window size (MSS) of 20800 bytes and a round trip time (RTT) of 2600 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transmission by ensuring that data is delivered in the correct order and without errors.
@@ -7544,7 +7543,7 @@ The throughput of a TCP connection is the rate at which data is successfully tra
   $Throughput = (20800000)/(1300.0)$
   $throughput = (16000.0) B/s = (16000.0/1000) KB/s = 16.0 KB/s$
 
-The answer is 16.0 KB/s.",16000.0
+The answer is 16.0 KB/s.",16000
 58,"A network has a maximum window size (MSS) of 105 bytes and a round trip time (RTT) of 300 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by using error checking, flow control, and retransmission mechanisms.
@@ -7569,7 +7568,7 @@ Throughput of a TCP connection is the rate at which data can be successfully tra
   $Throughput = (105000)/(30.0)$
   $throughput = (3500.0) B/s = (3500.0/1000) KB/s = 3.5 KB/s$
 
-The answer is 3.5 KB/s.",3500.0
+The answer is 3.5 KB/s.",3500
 59,"A network has a maximum window size (MSS) of 752 bytes and a round trip time (RTT) of 4700 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual circuit between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7593,7 +7592,7 @@ TCP throughput refers to the maximum rate at which data can be transmitted over 
   $Throughput = (752)/(4700*0.4)*1000$
   $Throughput = (752000)/(1880.0)$
   $throughput = (400.0) B/s$
-The answer is 400.0 B/s.",400.0
+The answer is 400.0 B/s.",400
 60,"A network has a maximum window size (MSS) of 17850 bytes and a round trip time (RTT) of 3400 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7618,7 +7617,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (17850000)/(1700.0)$
   $throughput = (10500.0) B/s = (10500.0/1000) KB/s = 10.5 KB/s$
 
-The answer is 10.5 KB/s.",10500.0
+The answer is 10.5 KB/s.",10500
 61,"A network has a maximum window size (MSS) of 12880 bytes and a round trip time (RTT) of 2300 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two hosts and uses a three-way handshake to initiate and terminate the connection. TCP's throughput, measured in bits per second, represents the rate at which data can be successfully transmitted over a network connection. It is influenced by factors such as network bandwidth, latency, and congestion control algorithms.
@@ -7641,7 +7640,7 @@ The answer is 10.5 KB/s.",10500.0
   $Throughput = (12880000)/(920.0)$
   $throughput = (14000.0) B/s = (14000.0/1000) KB/s = 14.0 KB/s$
 
-The answer is 14.0 KB/s.",14000.0
+The answer is 14.0 KB/s.",14000
 62,"A network has a maximum window size (MSS) of 4212 bytes and a round trip time (RTT) of 1300 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures the reliable delivery of data over a network. It establishes a virtual circuit between two endpoints, guaranteeing that data is delivered in the correct order and without errors.
@@ -7666,7 +7665,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (4212000)/(390.0)$
   $throughput = (10800.0) B/s = (10800.0/1000) KB/s = 10.8 KB/s$
 
-The answer is 10.8 KB/s.",10800.0
+The answer is 10.8 KB/s.",10800
 63,"A network has a maximum window size (MSS) of 640 bytes and a round trip time (RTT) of 2000 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol)** is a reliable transport layer protocol that ensures data is delivered in the correct order and without errors. It establishes a connection between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7691,7 +7690,7 @@ The answer is 10.8 KB/s.",10800.0
   $Throughput = (640000)/(200.0)$
   $throughput = (3200.0) B/s = (3200.0/1000) KB/s = 3.2 KB/s$
 
-The answer is 3.2 KB/s.",3200.0
+The answer is 3.2 KB/s.",3200
 64,"A network has a maximum window size (MSS) of 592 bytes and a round trip time (RTT) of 3700 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport protocol that ensures data is delivered accurately and in order. It establishes a virtual circuit between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7715,7 +7714,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (592)/(3700*0.2)*1000$
   $Throughput = (592000)/(740.0)$
   $throughput = (800.0) B/s$
-The answer is 800.0 B/s.",800.0
+The answer is 800.0 B/s.",800
 65,"A network has a maximum window size (MSS) of 364 bytes and a round trip time (RTT) of 1300 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable delivery of data by using acknowledgments and retransmissions.
@@ -7740,7 +7739,7 @@ Throughput of a TCP connection refers to the rate at which data can be successfu
   $Throughput = (364000)/(260.0)$
   $throughput = (1400.0) B/s = (1400.0/1000) KB/s = 1.4 KB/s$
 
-The answer is 1.4 KB/s.",1400.0
+The answer is 1.4 KB/s.",1400
 66,"A network has a maximum window size (MSS) of 16896 bytes and a round trip time (RTT) of 4400 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual circuit between two endpoints and uses a sliding window mechanism to control the flow of data.
@@ -7765,7 +7764,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (16896000)/(1760.0)$
   $throughput = (9600.0) B/s = (9600.0/1000) KB/s = 9.6 KB/s$
 
-The answer is 9.6 KB/s.",9600.0
+The answer is 9.6 KB/s.",9600
 67,"A network has a maximum window size (MSS) of 10710 bytes and a round trip time (RTT) of 3400 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   Transmission Control Protocol (TCP) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol (IP) suite. It provides reliable data transmission over an unreliable network by using error correction, flow control, and congestion control mechanisms.
@@ -7790,7 +7789,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (10710000)/(1020.0)$
   $throughput = (10500.0) B/s = (10500.0/1000) KB/s = 10.5 KB/s$
 
-The answer is 10.5 KB/s.",10500.0
+The answer is 10.5 KB/s.",10500
 68,"A network has a maximum window size (MSS) of 2016 bytes and a round trip time (RTT) of 2800 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors. It uses a sliding window mechanism to control the flow of data, allowing the receiver to acknowledge received data and request retransmission of lost packets.
@@ -7815,7 +7814,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (2016000)/(560.0)$
   $throughput = (3600.0) B/s = (3600.0/1000) KB/s = 3.6 KB/s$
 
-The answer is 3.6 KB/s.",3600.0
+The answer is 3.6 KB/s.",3600
 69,"A network has a maximum window size (MSS) of 16146 bytes and a round trip time (RTT) of 3900 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport protocol that ensures data is delivered accurately and in order. It uses a sliding window mechanism to control the flow of data, ensuring that the sender does not overwhelm the receiver. The throughput of a TCP connection is the rate at which data can be successfully transmitted over the connection. It is affected by factors such as network congestion, latency, and the size of the sliding window.
@@ -7838,7 +7837,7 @@ The answer is 3.6 KB/s.",3600.0
   $Throughput = (16146000)/(1170.0)$
   $throughput = (13800.0) B/s = (13800.0/1000) KB/s = 13.8 KB/s$
 
-The answer is 13.8 KB/s.",13800.0
+The answer is 13.8 KB/s.",13800
 70,"A network has a maximum window size (MSS) of 31680 bytes and a round trip time (RTT) of 4500 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It provides reliable data transfer by using error correction and retransmission mechanisms. TCP ensures that data is delivered in the correct order and without errors.
@@ -7863,7 +7862,7 @@ The throughput of a TCP connection is the rate at which data can be transferred 
   $Throughput = (31680000)/(1800.0)$
   $throughput = (17600.0) B/s = (17600.0/1000) KB/s = 17.6 KB/s$
 
-The answer is 17.6 KB/s.",17600.0
+The answer is 17.6 KB/s.",17600
 71,"A network has a maximum window size (MSS) of 1568 bytes and a round trip time (RTT) of 2800 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two hosts and uses a sliding window mechanism to control the flow of data.
@@ -7888,7 +7887,7 @@ The throughput of a TCP connection refers to the rate at which data can be succe
   $Throughput = (1568000)/(560.0)$
   $throughput = (2800.0) B/s = (2800.0/1000) KB/s = 2.8 KB/s$
 
-The answer is 2.8 KB/s.",2800.0
+The answer is 2.8 KB/s.",2800
 72,"A network has a maximum window size (MSS) of 17200 bytes and a round trip time (RTT) of 4300 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by providing error correction, flow control, and congestion avoidance mechanisms.
@@ -7913,7 +7912,7 @@ The throughput of a TCP connection refers to the rate at which data can be succe
   $Throughput = (17200000)/(1720.0)$
   $throughput = (10000.0) B/s = (10000.0/1000) KB/s = 10.0 KB/s$
 
-The answer is 10.0 KB/s.",10000.0
+The answer is 10.0 KB/s.",10000
 73,"A network has a maximum window size (MSS) of 279 bytes and a round trip time (RTT) of 100 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data delivery by providing error correction, flow control, and congestion avoidance mechanisms.
@@ -7938,7 +7937,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (279000)/(30.0)$
   $throughput = (9300.0) B/s = (9300.0/1000) KB/s = 9.3 KB/s$
 
-The answer is 9.3 KB/s.",9300.0
+The answer is 9.3 KB/s.",9300
 74,"A network has a maximum window size (MSS) of 4959 bytes and a round trip time (RTT) of 2900 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol. It ensures that data is delivered in the correct order and without errors. TCP uses a sliding window mechanism to control the flow of data, which helps to prevent congestion.
@@ -7963,7 +7962,7 @@ The throughput of a TCP connection is the amount of data that can be transmitted
   $Throughput = (4959000)/(870.0)$
   $throughput = (5700.0) B/s = (5700.0/1000) KB/s = 5.7 KB/s$
 
-The answer is 5.7 KB/s.",5700.0
+The answer is 5.7 KB/s.",5700
 75,"A network has a maximum window size (MSS) of 513 bytes and a round trip time (RTT) of 1900 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable transport layer protocol that ensures data is delivered in the correct order and without errors. It uses a sliding window mechanism to control the flow of data, and it can handle congestion and retransmissions.
@@ -7988,7 +7987,7 @@ The throughput of a TCP connection is the rate at which data can be transmitted 
   $Throughput = (513000)/(190.0)$
   $throughput = (2700.0) B/s = (2700.0/1000) KB/s = 2.7 KB/s$
 
-The answer is 2.7 KB/s.",2700.0
+The answer is 2.7 KB/s.",2700
 76,"A network has a maximum window size (MSS) of 660 bytes and a round trip time (RTT) of 1500 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data delivery by using acknowledgements, retransmissions, and flow control.
@@ -8013,7 +8012,7 @@ Throughput is a measure of the amount of data that can be transmitted over a net
   $Throughput = (660000)/(300.0)$
   $throughput = (2200.0) B/s = (2200.0/1000) KB/s = 2.2 KB/s$
 
-The answer is 2.2 KB/s.",2200.0
+The answer is 2.2 KB/s.",2200
 77,"A network has a maximum window size (MSS) of 6048 bytes and a round trip time (RTT) of 1400 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It uses a three-way handshake to establish a connection and employs mechanisms like sequence numbers, acknowledgements, and retransmissions to guarantee reliable data transfer.
@@ -8038,7 +8037,7 @@ The throughput of a TCP connection refers to the rate at which data can be succe
   $Throughput = (6048000)/(560.0)$
   $throughput = (10800.0) B/s = (10800.0/1000) KB/s = 10.8 KB/s$
 
-The answer is 10.8 KB/s.",10800.0
+The answer is 10.8 KB/s.",10800
 78,"A network has a maximum window size (MSS) of 18096 bytes and a round trip time (RTT) of 2900 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It uses a three-way handshake to establish a connection and employs mechanisms like sequence numbers, acknowledgments, and retransmissions to guarantee reliable data transfer.
@@ -8063,7 +8062,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (18096000)/(1160.0)$
   $throughput = (15600.0) B/s = (15600.0/1000) KB/s = 15.6 KB/s$
 
-The answer is 15.6 KB/s.",15600.0
+The answer is 15.6 KB/s.",15600
 79,"A network has a maximum window size (MSS) of 3600 bytes and a round trip time (RTT) of 1500 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by using error checking, flow control, and congestion avoidance mechanisms.
@@ -8088,7 +8087,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (3600000)/(600.0)$
   $throughput = (6000.0) B/s = (6000.0/1000) KB/s = 6.0 KB/s$
 
-The answer is 6.0 KB/s.",6000.0
+The answer is 6.0 KB/s.",6000
 80,"A network has a maximum window size (MSS) of 312 bytes and a round trip time (RTT) of 1200 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by ensuring that data is delivered in the correct order, without errors, and with no loss.
@@ -8113,7 +8112,7 @@ TCP throughput is the rate at which data can be transmitted over a TCP connectio
   $Throughput = (312000)/(120.0)$
   $throughput = (2600.0) B/s = (2600.0/1000) KB/s = 2.6 KB/s$
 
-The answer is 2.6 KB/s.",2600.0
+The answer is 2.6 KB/s.",2600
 81,"A network has a maximum window size (MSS) of 49500 bytes and a round trip time (RTT) of 4400 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable transport protocol that ensures data is transmitted and received in the correct order and without errors. It uses a sliding window mechanism to control the flow of data and avoid congestion.
@@ -8138,7 +8137,7 @@ The throughput of a TCP connection is the rate at which data is successfully tra
   $Throughput = (49500000)/(2200.0)$
   $throughput = (22500.0) B/s = (22500.0/1000) KB/s = 22.5 KB/s$
 
-The answer is 22.5 KB/s.",22500.0
+The answer is 22.5 KB/s.",22500
 82,"A network has a maximum window size (MSS) of 129 bytes and a round trip time (RTT) of 4300 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery over an unreliable network by providing error correction, flow control, and congestion avoidance mechanisms.
@@ -8162,7 +8161,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (129)/(4300*0.1)*1000$
   $Throughput = (129000)/(430.0)$
   $throughput = (300.0) B/s$
-The answer is 300.0 B/s.",300.0
+The answer is 300.0 B/s.",300
 83,"A network has a maximum window size (MSS) of 1071 bytes and a round trip time (RTT) of 700 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides a reliable end-to-end data transmission service over an unreliable network. TCP ensures that data is delivered in the correct order and without errors.
@@ -8187,7 +8186,7 @@ The throughput of a TCP connection is the rate at which data can be transmitted 
   $Throughput = (1071000)/(210.0)$
   $throughput = (5100.0) B/s = (5100.0/1000) KB/s = 5.1 KB/s$
 
-The answer is 5.1 KB/s.",5100.0
+The answer is 5.1 KB/s.",5100
 84,"A network has a maximum window size (MSS) of 11475 bytes and a round trip time (RTT) of 2700 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors. It establishes a virtual circuit between two hosts, providing reliable and efficient data transfer.
@@ -8212,7 +8211,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (11475000)/(1350.0)$
   $throughput = (8500.0) B/s = (8500.0/1000) KB/s = 8.5 KB/s$
 
-The answer is 8.5 KB/s.",8500.0
+The answer is 8.5 KB/s.",8500
 85,"A network has a maximum window size (MSS) of 702 bytes and a round trip time (RTT) of 2600 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol):**
@@ -8241,7 +8240,7 @@ Throughput refers to the rate at which data is successfully transmitted over a T
   $Throughput = (702000)/(260.0)$
   $throughput = (2700.0) B/s = (2700.0/1000) KB/s = 2.7 KB/s$
 
-The answer is 2.7 KB/s.",2700.0
+The answer is 2.7 KB/s.",2700
 86,"A network has a maximum window size (MSS) of 2875 bytes and a round trip time (RTT) of 2300 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It uses a sliding window mechanism to control the flow of data and retransmits lost or corrupted packets.
@@ -8266,7 +8265,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (2875000)/(1150.0)$
   $throughput = (2500.0) B/s = (2500.0/1000) KB/s = 2.5 KB/s$
 
-The answer is 2.5 KB/s.",2500.0
+The answer is 2.5 KB/s.",2500
 87,"A network has a maximum window size (MSS) of 8460 bytes and a round trip time (RTT) of 4500 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in computer networks. It ensures reliable data delivery by using sequence numbers, acknowledgements, and retransmissions.
@@ -8291,7 +8290,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (8460000)/(900.0)$
   $throughput = (9400.0) B/s = (9400.0/1000) KB/s = 9.4 KB/s$
 
-The answer is 9.4 KB/s.",9400.0
+The answer is 9.4 KB/s.",9400
 88,"A network has a maximum window size (MSS) of 1024 bytes and a round trip time (RTT) of 3200 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered accurately and in order. It establishes a virtual connection between two endpoints, allowing for reliable data transfer.
@@ -8316,7 +8315,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (1024000)/(320.0)$
   $throughput = (3200.0) B/s = (3200.0/1000) KB/s = 3.2 KB/s$
 
-The answer is 3.2 KB/s.",3200.0
+The answer is 3.2 KB/s.",3200
 89,"A network has a maximum window size (MSS) of 2205 bytes and a round trip time (RTT) of 500 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transfer by acknowledging received data and retransmitting lost packets.
@@ -8341,7 +8340,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (2205000)/(150.0)$
   $throughput = (14700.0) B/s = (14700.0/1000) KB/s = 14.7 KB/s$
 
-The answer is 14.7 KB/s.",14700.0
+The answer is 14.7 KB/s.",14700
 90,"A network has a maximum window size (MSS) of 196 bytes and a round trip time (RTT) of 4900 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol):**
@@ -8369,7 +8368,7 @@ Throughput in TCP refers to the rate at which data is successfully transmitted o
   $Throughput = (196)/(4900*0.2)*1000$
   $Throughput = (196000)/(980.0)$
   $throughput = (200.0) B/s$
-The answer is 200.0 B/s.",200.0
+The answer is 200.0 B/s.",200
 91,"A network has a maximum window size (MSS) of 12160 bytes and a round trip time (RTT) of 2000 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered in the correct order and without errors. It uses a sliding window mechanism to control the flow of data, allowing the sender to transmit data at a rate that the receiver can handle.
@@ -8394,7 +8393,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (12160000)/(800.0)$
   $throughput = (15200.0) B/s = (15200.0/1000) KB/s = 15.2 KB/s$
 
-The answer is 15.2 KB/s.",15200.0
+The answer is 15.2 KB/s.",15200
 92,"A network has a maximum window size (MSS) of 3780 bytes and a round trip time (RTT) of 2700 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet. It ensures that data is delivered in the correct order, without errors, and with no loss.
@@ -8419,7 +8418,7 @@ TCP throughput is the maximum rate at which data can be transmitted over a netwo
   $Throughput = (3780000)/(540.0)$
   $throughput = (7000.0) B/s = (7000.0/1000) KB/s = 7.0 KB/s$
 
-The answer is 7.0 KB/s.",7000.0
+The answer is 7.0 KB/s.",7000
 93,"A network has a maximum window size (MSS) of 2576 bytes and a round trip time (RTT) of 2300 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data delivery by using acknowledgments, retransmissions, and congestion control mechanisms.
@@ -8444,7 +8443,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (2576000)/(460.0)$
   $throughput = (5600.0) B/s = (5600.0/1000) KB/s = 5.6 KB/s$
 
-The answer is 5.6 KB/s.",5600.0
+The answer is 5.6 KB/s.",5600
 94,"A network has a maximum window size (MSS) of 16254 bytes and a round trip time (RTT) of 4300 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data delivery by using error checking, flow control, and retransmission mechanisms.
@@ -8469,7 +8468,7 @@ TCP throughput refers to the amount of data that can be successfully transmitted
   $Throughput = (16254000)/(1290.0)$
   $throughput = (12600.0) B/s = (12600.0/1000) KB/s = 12.6 KB/s$
 
-The answer is 12.6 KB/s.",12600.0
+The answer is 12.6 KB/s.",12600
 95,"A network has a maximum window size (MSS) of 608 bytes and a round trip time (RTT) of 1900 ms.
   If the packet loss rate of the network is 0.01, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data is delivered from source to destination without errors or loss. It establishes a virtual connection between two endpoints and uses a sliding window mechanism to control the flow of data, ensuring reliable delivery even in the presence of network congestion or errors.
@@ -8494,7 +8493,7 @@ The throughput of a TCP connection is the rate at which data can be successfully
   $Throughput = (608000)/(190.0)$
   $throughput = (3200.0) B/s = (3200.0/1000) KB/s = 3.2 KB/s$
 
-The answer is 3.2 KB/s.",3200.0
+The answer is 3.2 KB/s.",3200
 96,"A network has a maximum window size (MSS) of 620 bytes and a round trip time (RTT) of 500 ms.
   If the packet loss rate of the network is 0.04, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It provides reliable data transmission by using a three-way handshake to establish a connection, and by using sequence numbers and acknowledgments to ensure that data is delivered in the correct order and without errors.
@@ -8519,7 +8518,7 @@ The throughput of a TCP connection is the rate at which data can be transmitted 
   $Throughput = (620000)/(100.0)$
   $throughput = (6200.0) B/s = (6200.0/1000) KB/s = 6.2 KB/s$
 
-The answer is 6.2 KB/s.",6200.0
+The answer is 6.2 KB/s.",6200
 97,"A network has a maximum window size (MSS) of 432 bytes and a round trip time (RTT) of 600 ms.
   If the packet loss rate of the network is 0.09, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol that ensures data delivery over a network. It establishes a virtual circuit between two endpoints, guaranteeing in-order delivery, error detection and correction, and flow control.
@@ -8544,7 +8543,7 @@ TCP throughput refers to the rate at which data can be successfully transmitted 
   $Throughput = (432000)/(180.0)$
   $throughput = (2400.0) B/s = (2400.0/1000) KB/s = 2.4 KB/s$
 
-The answer is 2.4 KB/s.",2400.0
+The answer is 2.4 KB/s.",2400
 98,"A network has a maximum window size (MSS) of 576 bytes and a round trip time (RTT) of 900 ms.
   If the packet loss rate of the network is 0.16, find the TCP throughput of the network.","
   TCP (Transmission Control Protocol) is a reliable, connection-oriented transport layer protocol used in the Internet Protocol suite. It ensures reliable data transmission by providing error correction, flow control, and congestion control mechanisms.
@@ -8569,7 +8568,7 @@ Throughput in TCP refers to the rate at which data can be successfully transmitt
   $Throughput = (576000)/(360.0)$
   $throughput = (1600.0) B/s = (1600.0/1000) KB/s = 1.6 KB/s$
 
-The answer is 1.6 KB/s.",1600.0
+The answer is 1.6 KB/s.",1600
 99,"A network has a maximum window size (MSS) of 6000 bytes and a round trip time (RTT) of 800 ms.
   If the packet loss rate of the network is 0.25, find the TCP throughput of the network.","
   **TCP (Transmission Control Protocol)** is a reliable, connection-oriented transport layer protocol used in the Internet protocol suite. It ensures reliable data delivery by providing error correction, flow control, and congestion avoidance mechanisms.
@@ -8594,4 +8593,4 @@ The answer is 1.6 KB/s.",1600.0
   $Throughput = (6000000)/(400.0)$
   $throughput = (15000.0) B/s = (15000.0/1000) KB/s = 15.0 KB/s$
 
-The answer is 15.0 KB/s.",15000.0
+The answer is 15.0 KB/s.",15000
